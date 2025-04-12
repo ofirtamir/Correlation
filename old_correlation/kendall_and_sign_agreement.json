@@ -1,0 +1,2802 @@
+{
+  "patient_100432_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4479,
+      "sign_agreement": 0.3736
+    },
+    "DecisionTree": {
+      "kendall_w": 0.578,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2931,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_100979_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5173,
+      "sign_agreement": 0.3187
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5093,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2129,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_101019_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4798,
+      "sign_agreement": 0.4341
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5367,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2367,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_101310_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5395,
+      "sign_agreement": 0.4286
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5083,
+      "sign_agreement": 0.3333
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2969,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_101670_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4789,
+      "sign_agreement": 0.3462
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5474,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2311,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_102243_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5553,
+      "sign_agreement": 0.3846
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4963,
+      "sign_agreement": 0.7143
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2327,
+      "sign_agreement": 0.1484
+    }
+  },
+  "patient_10232_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5421,
+      "sign_agreement": 0.3791
+    },
+    "DecisionTree": {
+      "kendall_w": 0.557,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2043,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_103107_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4273,
+      "sign_agreement": 0.3901
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5978,
+      "sign_agreement": 0.7143
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2421,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_103134_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4669,
+      "sign_agreement": 0.3022
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5799,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2812,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_10328_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3707,
+      "sign_agreement": 0.2747
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5303,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2587,
+      "sign_agreement": 0.2088
+    }
+  },
+  "patient_103652_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4531,
+      "sign_agreement": 0.2912
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5406,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2825,
+      "sign_agreement": 0.2637
+    }
+  },
+  "patient_103723_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5528,
+      "sign_agreement": 0.456
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5754,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1967,
+      "sign_agreement": 0.2033
+    }
+  },
+  "patient_105345_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4523,
+      "sign_agreement": 0.3187
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5322,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3055,
+      "sign_agreement": 0.2692
+    }
+  },
+  "patient_108680_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3025,
+      "sign_agreement": 0.2198
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5118,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2076,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_108708_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5735,
+      "sign_agreement": 0.4505
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5972,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3099,
+      "sign_agreement": 0.2308
+    }
+  },
+  "patient_109237_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5313,
+      "sign_agreement": 0.3901
+    },
+    "DecisionTree": {
+      "kendall_w": 0.547,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2983,
+      "sign_agreement": 0.1484
+    }
+  },
+  "patient_109860_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3772,
+      "sign_agreement": 0.2418
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5097,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2481,
+      "sign_agreement": 0.1648
+    }
+  },
+  "patient_111748_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5456,
+      "sign_agreement": 0.3681
+    },
+    "DecisionTree": {
+      "kendall_w": 0.564,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3181,
+      "sign_agreement": 0.2253
+    }
+  },
+  "patient_112525_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.605,
+      "sign_agreement": 0.478
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5293,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3173,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_113236_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4289,
+      "sign_agreement": 0.2912
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5269,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2159,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_114584_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5415,
+      "sign_agreement": 0.3736
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5904,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3233,
+      "sign_agreement": 0.2198
+    }
+  },
+  "patient_114935_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4945,
+      "sign_agreement": 0.3187
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5313,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2186,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_115156_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5615,
+      "sign_agreement": 0.4725
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4156,
+      "sign_agreement": 0.2857
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3255,
+      "sign_agreement": 0.1319
+    }
+  },
+  "patient_115540_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5332,
+      "sign_agreement": 0.4011
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5372,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2894,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_115612_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.46,
+      "sign_agreement": 0.3242
+    },
+    "DecisionTree": {
+      "kendall_w": 0.53,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1734,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_11565_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4325,
+      "sign_agreement": 0.3132
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5449,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2243,
+      "sign_agreement": 0.1758
+    }
+  },
+  "patient_116056_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5383,
+      "sign_agreement": 0.3462
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4951,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2852,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_118241_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3346,
+      "sign_agreement": 0.2253
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6011,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2131,
+      "sign_agreement": 0.1209
+    }
+  },
+  "patient_118333_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3736,
+      "sign_agreement": 0.2308
+    },
+    "DecisionTree": {
+      "kendall_w": 0.559,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2356,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_118369_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5523,
+      "sign_agreement": 0.3901
+    },
+    "DecisionTree": {
+      "kendall_w": 0.587,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2572,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_119976_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5183,
+      "sign_agreement": 0.3736
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5297,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2195,
+      "sign_agreement": 0.1593
+    }
+  },
+  "patient_121016_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4384,
+      "sign_agreement": 0.3022
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4976,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3149,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_121071_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4478,
+      "sign_agreement": 0.3736
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5021,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2573,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_122641_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5676,
+      "sign_agreement": 0.489
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5017,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3313,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_123193_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5367,
+      "sign_agreement": 0.4066
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4956,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1968,
+      "sign_agreement": 0.1593
+    }
+  },
+  "patient_123790_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4773,
+      "sign_agreement": 0.3846
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5357,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.228,
+      "sign_agreement": 0.1484
+    }
+  },
+  "patient_124432_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.422,
+      "sign_agreement": 0.3297
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5453,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3196,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_124733_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4735,
+      "sign_agreement": 0.3791
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5744,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2373,
+      "sign_agreement": 0.1538
+    }
+  },
+  "patient_124997_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5522,
+      "sign_agreement": 0.4066
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5809,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.21,
+      "sign_agreement": 0.2033
+    }
+  },
+  "patient_125725_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4705,
+      "sign_agreement": 0.3571
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5541,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2973,
+      "sign_agreement": 0.2253
+    }
+  },
+  "patient_125998_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.356,
+      "sign_agreement": 0.2473
+    },
+    "DecisionTree": {
+      "kendall_w": 0.54,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2055,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_12768_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5822,
+      "sign_agreement": 0.4341
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5361,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3162,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_127876_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3649,
+      "sign_agreement": 0.2473
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4978,
+      "sign_agreement": 0.3333
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2897,
+      "sign_agreement": 0.1758
+    }
+  },
+  "patient_128223_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4663,
+      "sign_agreement": 0.3681
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5302,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3299,
+      "sign_agreement": 0.2308
+    }
+  },
+  "patient_128990_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2778,
+      "sign_agreement": 0.1758
+    },
+    "DecisionTree": {
+      "kendall_w": 0.554,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2466,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_130002_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.479,
+      "sign_agreement": 0.3352
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5122,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2382,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_130409_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3233,
+      "sign_agreement": 0.2692
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5544,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.223,
+      "sign_agreement": 0.2033
+    }
+  },
+  "patient_130695_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4469,
+      "sign_agreement": 0.2912
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5374,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2896,
+      "sign_agreement": 0.2033
+    }
+  },
+  "patient_13604_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4786,
+      "sign_agreement": 0.3901
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4944,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2705,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_14132_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4822,
+      "sign_agreement": 0.3242
+    },
+    "DecisionTree": {
+      "kendall_w": 0.545,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2749,
+      "sign_agreement": 0.2198
+    }
+  },
+  "patient_1428_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4285,
+      "sign_agreement": 0.3077
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5365,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1917,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_14540_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5562,
+      "sign_agreement": 0.4341
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5492,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.273,
+      "sign_agreement": 0.2088
+    }
+  },
+  "patient_15003_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4285,
+      "sign_agreement": 0.2747
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4836,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2315,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_15144_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3033,
+      "sign_agreement": 0.1868
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5108,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2376,
+      "sign_agreement": 0.1538
+    }
+  },
+  "patient_15988_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4297,
+      "sign_agreement": 0.3077
+    },
+    "DecisionTree": {
+      "kendall_w": 0.542,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2735,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_16810_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4614,
+      "sign_agreement": 0.3626
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5255,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2849,
+      "sign_agreement": 0.2473
+    }
+  },
+  "patient_17073_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4635,
+      "sign_agreement": 0.3022
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5232,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2331,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_17380_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3916,
+      "sign_agreement": 0.2637
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4427,
+      "sign_agreement": 0.3333
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1837,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_17614_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4665,
+      "sign_agreement": 0.3297
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5484,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2165,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_17652_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4305,
+      "sign_agreement": 0.2967
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4829,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2653,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_1775_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.311,
+      "sign_agreement": 0.2033
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5239,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2141,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_17799_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3515,
+      "sign_agreement": 0.3022
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5639,
+      "sign_agreement": 0.3333
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2099,
+      "sign_agreement": 0.1374
+    }
+  },
+  "patient_17923_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4925,
+      "sign_agreement": 0.4121
+    },
+    "DecisionTree": {
+      "kendall_w": 0.549,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2922,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_1948_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5728,
+      "sign_agreement": 0.4396
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4973,
+      "sign_agreement": 0.3333
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3806,
+      "sign_agreement": 0.2967
+    }
+  },
+  "patient_19956_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5136,
+      "sign_agreement": 0.3736
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5643,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2859,
+      "sign_agreement": 0.1703
+    }
+  },
+  "patient_21090_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5517,
+      "sign_agreement": 0.3791
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5316,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2882,
+      "sign_agreement": 0.2527
+    }
+  },
+  "patient_22398_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.465,
+      "sign_agreement": 0.3791
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5437,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2883,
+      "sign_agreement": 0.2857
+    }
+  },
+  "patient_23412_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3744,
+      "sign_agreement": 0.2692
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4772,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.278,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_23838_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5772,
+      "sign_agreement": 0.4011
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4718,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2654,
+      "sign_agreement": 0.2308
+    }
+  },
+  "patient_24277_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5592,
+      "sign_agreement": 0.3791
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4743,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2488,
+      "sign_agreement": 0.2418
+    }
+  },
+  "patient_24475_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5087,
+      "sign_agreement": 0.4505
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5697,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2862,
+      "sign_agreement": 0.2198
+    }
+  },
+  "patient_25588_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2988,
+      "sign_agreement": 0.2308
+    },
+    "DecisionTree": {
+      "kendall_w": 0.532,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1734,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_25731_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5726,
+      "sign_agreement": 0.4176
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5226,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2652,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_25765_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5375,
+      "sign_agreement": 0.3791
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5447,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2492,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_26422_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5591,
+      "sign_agreement": 0.3462
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5399,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.293,
+      "sign_agreement": 0.2198
+    }
+  },
+  "patient_27046_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5083,
+      "sign_agreement": 0.4121
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5464,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2671,
+      "sign_agreement": 0.1703
+    }
+  },
+  "patient_27695_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6138,
+      "sign_agreement": 0.4505
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4883,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2701,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_28346_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4408,
+      "sign_agreement": 0.3516
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5661,
+      "sign_agreement": 0.7143
+    },
+    "XGBOOST": {
+      "kendall_w": 0.255,
+      "sign_agreement": 0.1484
+    }
+  },
+  "patient_28451_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4508,
+      "sign_agreement": 0.3352
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6027,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2479,
+      "sign_agreement": 0.2033
+    }
+  },
+  "patient_28460_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.485,
+      "sign_agreement": 0.2967
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5346,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2607,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_2856_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5514,
+      "sign_agreement": 0.4725
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5423,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3516,
+      "sign_agreement": 0.2033
+    }
+  },
+  "patient_2961_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5597,
+      "sign_agreement": 0.4615
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5742,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2981,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_29880_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.485,
+      "sign_agreement": 0.3407
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6295,
+      "sign_agreement": 0.8571
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3019,
+      "sign_agreement": 0.2088
+    }
+  },
+  "patient_30640_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5783,
+      "sign_agreement": 0.4505
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4854,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2699,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_31121_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2912,
+      "sign_agreement": 0.2033
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4987,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1994,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_31186_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5069,
+      "sign_agreement": 0.4066
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5709,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2476,
+      "sign_agreement": 0.1648
+    }
+  },
+  "patient_31760_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3987,
+      "sign_agreement": 0.2747
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4741,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2711,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_32448_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4709,
+      "sign_agreement": 0.3132
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4979,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.32,
+      "sign_agreement": 0.2308
+    }
+  },
+  "patient_33277_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6723,
+      "sign_agreement": 0.5055
+    },
+    "DecisionTree": {
+      "kendall_w": 0.556,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3084,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_33348_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3315,
+      "sign_agreement": 0.2198
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5503,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2235,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_34158_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5647,
+      "sign_agreement": 0.4396
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5073,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2123,
+      "sign_agreement": 0.1154
+    }
+  },
+  "patient_34252_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3343,
+      "sign_agreement": 0.2088
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5159,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2078,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_34584_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2944,
+      "sign_agreement": 0.1978
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4557,
+      "sign_agreement": 0.2857
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2655,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_34719_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5606,
+      "sign_agreement": 0.3846
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5423,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.281,
+      "sign_agreement": 0.2253
+    }
+  },
+  "patient_35858_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.372,
+      "sign_agreement": 0.2802
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5237,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3316,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_36067_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3168,
+      "sign_agreement": 0.2253
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5095,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2126,
+      "sign_agreement": 0.1758
+    }
+  },
+  "patient_37289_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5515,
+      "sign_agreement": 0.4176
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5066,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2468,
+      "sign_agreement": 0.1209
+    }
+  },
+  "patient_38241_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5856,
+      "sign_agreement": 0.4066
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5017,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3198,
+      "sign_agreement": 0.2637
+    }
+  },
+  "patient_38281_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2814,
+      "sign_agreement": 0.1923
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4948,
+      "sign_agreement": 0.3333
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2055,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_38389_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3553,
+      "sign_agreement": 0.2527
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5215,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.25,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_40389_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2969,
+      "sign_agreement": 0.2033
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4559,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1944,
+      "sign_agreement": 0.1758
+    }
+  },
+  "patient_41202_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5604,
+      "sign_agreement": 0.3516
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6045,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2555,
+      "sign_agreement": 0.2198
+    }
+  },
+  "patient_41685_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4153,
+      "sign_agreement": 0.3352
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5728,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2977,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_42850_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3702,
+      "sign_agreement": 0.3022
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4908,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2749,
+      "sign_agreement": 0.1484
+    }
+  },
+  "patient_43456_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5057,
+      "sign_agreement": 0.4505
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4869,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3705,
+      "sign_agreement": 0.2088
+    }
+  },
+  "patient_4511_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4724,
+      "sign_agreement": 0.3571
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5736,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3009,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_45411_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5681,
+      "sign_agreement": 0.4121
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5124,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2965,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_46298_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3798,
+      "sign_agreement": 0.2802
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5339,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1736,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_46504_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4049,
+      "sign_agreement": 0.2857
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4578,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.263,
+      "sign_agreement": 0.2418
+    }
+  },
+  "patient_48061_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6122,
+      "sign_agreement": 0.3846
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5741,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2862,
+      "sign_agreement": 0.2253
+    }
+  },
+  "patient_48971_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4898,
+      "sign_agreement": 0.3901
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6356,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2827,
+      "sign_agreement": 0.1703
+    }
+  },
+  "patient_49777_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3677,
+      "sign_agreement": 0.3022
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4937,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3376,
+      "sign_agreement": 0.1593
+    }
+  },
+  "patient_49956_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3952,
+      "sign_agreement": 0.2692
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5367,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1979,
+      "sign_agreement": 0.1154
+    }
+  },
+  "patient_5017_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4906,
+      "sign_agreement": 0.3462
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5053,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2536,
+      "sign_agreement": 0.1648
+    }
+  },
+  "patient_51117_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3608,
+      "sign_agreement": 0.2747
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5089,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2508,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_51255_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5173,
+      "sign_agreement": 0.3516
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5376,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2199,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_52495_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5111,
+      "sign_agreement": 0.3462
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5317,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2861,
+      "sign_agreement": 0.2308
+    }
+  },
+  "patient_52595_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4381,
+      "sign_agreement": 0.3516
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5731,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3976,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_52758_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.57,
+      "sign_agreement": 0.5055
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4622,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3254,
+      "sign_agreement": 0.1374
+    }
+  },
+  "patient_5346_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4731,
+      "sign_agreement": 0.3132
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5952,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2499,
+      "sign_agreement": 0.2253
+    }
+  },
+  "patient_54332_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4796,
+      "sign_agreement": 0.3132
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5342,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1932,
+      "sign_agreement": 0.1703
+    }
+  },
+  "patient_54379_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4302,
+      "sign_agreement": 0.2637
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6103,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2003,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_56098_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4411,
+      "sign_agreement": 0.3077
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5832,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.229,
+      "sign_agreement": 0.1703
+    }
+  },
+  "patient_56436_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4796,
+      "sign_agreement": 0.3352
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4807,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3156,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_57497_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4394,
+      "sign_agreement": 0.3242
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5113,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2189,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_57525_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6618,
+      "sign_agreement": 0.4505
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5745,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2552,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_58171_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3875,
+      "sign_agreement": 0.2473
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5327,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2192,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_59046_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5506,
+      "sign_agreement": 0.4176
+    },
+    "DecisionTree": {
+      "kendall_w": 0.511,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3348,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_59084_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4686,
+      "sign_agreement": 0.3846
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5062,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3488,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_59193_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5925,
+      "sign_agreement": 0.4396
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5576,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2827,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_59554_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5035,
+      "sign_agreement": 0.4066
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5405,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3226,
+      "sign_agreement": 0.2527
+    }
+  },
+  "patient_60350_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3863,
+      "sign_agreement": 0.2527
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5286,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2397,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_60886_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6134,
+      "sign_agreement": 0.4011
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5649,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2618,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_61421_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4883,
+      "sign_agreement": 0.3407
+    },
+    "DecisionTree": {
+      "kendall_w": 0.516,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2305,
+      "sign_agreement": 0.2253
+    }
+  },
+  "patient_61913_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4967,
+      "sign_agreement": 0.3132
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5931,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2089,
+      "sign_agreement": 0.1648
+    }
+  },
+  "patient_62084_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4457,
+      "sign_agreement": 0.3462
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5663,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2622,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_62657_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5628,
+      "sign_agreement": 0.3956
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5347,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3204,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_62934_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5234,
+      "sign_agreement": 0.3132
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5591,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.284,
+      "sign_agreement": 0.2253
+    }
+  },
+  "patient_64429_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4836,
+      "sign_agreement": 0.3187
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5009,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2122,
+      "sign_agreement": 0.1538
+    }
+  },
+  "patient_64832_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4316,
+      "sign_agreement": 0.3022
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5291,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2748,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_65615_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4219,
+      "sign_agreement": 0.2912
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5141,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2164,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_66014_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5106,
+      "sign_agreement": 0.3571
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5564,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2259,
+      "sign_agreement": 0.1703
+    }
+  },
+  "patient_664_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4174,
+      "sign_agreement": 0.2637
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5193,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2235,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_66726_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4418,
+      "sign_agreement": 0.3077
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4757,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2694,
+      "sign_agreement": 0.2418
+    }
+  },
+  "patient_66828_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.337,
+      "sign_agreement": 0.1978
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5764,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2037,
+      "sign_agreement": 0.2253
+    }
+  },
+  "patient_67657_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4197,
+      "sign_agreement": 0.2692
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4793,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2183,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_67870_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5109,
+      "sign_agreement": 0.4231
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5325,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.269,
+      "sign_agreement": 0.1538
+    }
+  },
+  "patient_70639_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4384,
+      "sign_agreement": 0.3462
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5708,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.267,
+      "sign_agreement": 0.1758
+    }
+  },
+  "patient_71235_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4373,
+      "sign_agreement": 0.3132
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5458,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1977,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_7218_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4391,
+      "sign_agreement": 0.2857
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5167,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2918,
+      "sign_agreement": 0.2473
+    }
+  },
+  "patient_73423_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5802,
+      "sign_agreement": 0.4066
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5398,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2219,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_7596_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5947,
+      "sign_agreement": 0.467
+    },
+    "DecisionTree": {
+      "kendall_w": 0.555,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2667,
+      "sign_agreement": 0.1758
+    }
+  },
+  "patient_76265_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4435,
+      "sign_agreement": 0.3297
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5688,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2925,
+      "sign_agreement": 0.2088
+    }
+  },
+  "patient_77103_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4983,
+      "sign_agreement": 0.3846
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5391,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2511,
+      "sign_agreement": 0.1154
+    }
+  },
+  "patient_77573_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4506,
+      "sign_agreement": 0.3462
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5639,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2554,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_78645_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5011,
+      "sign_agreement": 0.4066
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5073,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2552,
+      "sign_agreement": 0.1044
+    }
+  },
+  "patient_79240_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4611,
+      "sign_agreement": 0.3407
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5215,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2759,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_80051_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5591,
+      "sign_agreement": 0.4725
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4735,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2672,
+      "sign_agreement": 0.1593
+    }
+  },
+  "patient_80486_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5122,
+      "sign_agreement": 0.3791
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5446,
+      "sign_agreement": 0.7143
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2565,
+      "sign_agreement": 0.1758
+    }
+  },
+  "patient_80676_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4249,
+      "sign_agreement": 0.3462
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5236,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2712,
+      "sign_agreement": 0.2033
+    }
+  },
+  "patient_80680_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3647,
+      "sign_agreement": 0.2912
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5252,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1944,
+      "sign_agreement": 0.1484
+    }
+  },
+  "patient_81200_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5211,
+      "sign_agreement": 0.4011
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5157,
+      "sign_agreement": 0.2857
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3149,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_81761_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2899,
+      "sign_agreement": 0.2033
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5265,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2887,
+      "sign_agreement": 0.2473
+    }
+  },
+  "patient_83129_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4893,
+      "sign_agreement": 0.4121
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4632,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3505,
+      "sign_agreement": 0.2198
+    }
+  },
+  "patient_83905_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4013,
+      "sign_agreement": 0.2802
+    },
+    "DecisionTree": {
+      "kendall_w": 0.588,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2406,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_85113_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4357,
+      "sign_agreement": 0.2802
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5202,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.227,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_85660_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3568,
+      "sign_agreement": 0.2527
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5481,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2501,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_86146_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4396,
+      "sign_agreement": 0.3022
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5192,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3088,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_87623_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5436,
+      "sign_agreement": 0.3516
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5395,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2443,
+      "sign_agreement": 0.1758
+    }
+  },
+  "patient_87792_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5099,
+      "sign_agreement": 0.3571
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5223,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2331,
+      "sign_agreement": 0.2143
+    }
+  },
+  "patient_87862_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5074,
+      "sign_agreement": 0.4011
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5223,
+      "sign_agreement": 0.2857
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2702,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_88517_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4265,
+      "sign_agreement": 0.2692
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5176,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2148,
+      "sign_agreement": 0.2033
+    }
+  },
+  "patient_88615_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5136,
+      "sign_agreement": 0.4341
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5201,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3425,
+      "sign_agreement": 0.2253
+    }
+  },
+  "patient_89042_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.382,
+      "sign_agreement": 0.2637
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5686,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.193,
+      "sign_agreement": 0.1923
+    }
+  },
+  "patient_89102_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5971,
+      "sign_agreement": 0.4121
+    },
+    "DecisionTree": {
+      "kendall_w": 0.574,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3164,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_90223_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4794,
+      "sign_agreement": 0.3516
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5239,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.257,
+      "sign_agreement": 0.1538
+    }
+  },
+  "patient_90689_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5948,
+      "sign_agreement": 0.4011
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5494,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2427,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_91264_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.359,
+      "sign_agreement": 0.2637
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5366,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1896,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_9166_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4985,
+      "sign_agreement": 0.3187
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4878,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2455,
+      "sign_agreement": 0.1868
+    }
+  },
+  "patient_9277_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3332,
+      "sign_agreement": 0.2473
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4953,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2203,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_92784_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3623,
+      "sign_agreement": 0.2473
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4799,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.325,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_93160_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5664,
+      "sign_agreement": 0.4505
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4491,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2658,
+      "sign_agreement": 0.1648
+    }
+  },
+  "patient_93377_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6054,
+      "sign_agreement": 0.4176
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5534,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3118,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_94134_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4609,
+      "sign_agreement": 0.3956
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5582,
+      "sign_agreement": 0.381
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2317,
+      "sign_agreement": 0.1593
+    }
+  },
+  "patient_94432_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3603,
+      "sign_agreement": 0.2253
+    },
+    "DecisionTree": {
+      "kendall_w": 0.536,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2612,
+      "sign_agreement": 0.2033
+    }
+  },
+  "patient_94606_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3493,
+      "sign_agreement": 0.2692
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5329,
+      "sign_agreement": 0.6667
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2256,
+      "sign_agreement": 0.1703
+    }
+  },
+  "patient_94638_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3645,
+      "sign_agreement": 0.2637
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5582,
+      "sign_agreement": 0.7619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.251,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_94664_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.546,
+      "sign_agreement": 0.4835
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5348,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3044,
+      "sign_agreement": 0.2088
+    }
+  },
+  "patient_95594_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6137,
+      "sign_agreement": 0.4341
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5316,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.286,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_9587_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4926,
+      "sign_agreement": 0.3516
+    },
+    "DecisionTree": {
+      "kendall_w": 0.587,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2142,
+      "sign_agreement": 0.1154
+    }
+  },
+  "patient_95938_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4675,
+      "sign_agreement": 0.3626
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5625,
+      "sign_agreement": 0.5238
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2676,
+      "sign_agreement": 0.2308
+    }
+  },
+  "patient_95980_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.493,
+      "sign_agreement": 0.3956
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5651,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2804,
+      "sign_agreement": 0.2088
+    }
+  },
+  "patient_96367_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.559,
+      "sign_agreement": 0.3901
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4851,
+      "sign_agreement": 0.4286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3143,
+      "sign_agreement": 0.2527
+    }
+  },
+  "patient_9833_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4247,
+      "sign_agreement": 0.3077
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5618,
+      "sign_agreement": 0.7619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2935,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_98978_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4055,
+      "sign_agreement": 0.2912
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5786,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3129,
+      "sign_agreement": 0.1978
+    }
+  },
+  "patient_99468_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4204,
+      "sign_agreement": 0.2857
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5984,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2767,
+      "sign_agreement": 0.1813
+    }
+  },
+  "patient_99516_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3792,
+      "sign_agreement": 0.2582
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5442,
+      "sign_agreement": 0.5714
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2211,
+      "sign_agreement": 0.1429
+    }
+  },
+  "patient_99614_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5037,
+      "sign_agreement": 0.3736
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5539,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2335,
+      "sign_agreement": 0.1484
+    }
+  },
+  "patient_99634_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4698,
+      "sign_agreement": 0.3187
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5508,
+      "sign_agreement": 0.619
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2833,
+      "sign_agreement": 0.2363
+    }
+  },
+  "patient_99933_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5499,
+      "sign_agreement": 0.3846
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5091,
+      "sign_agreement": 0.4762
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2836,
+      "sign_agreement": 0.2692
+    }
+  }
+}

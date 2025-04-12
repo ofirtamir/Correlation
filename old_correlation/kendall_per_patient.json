@@ -1,0 +1,2202 @@
+{
+  "patient_100432_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4479
+    },
+    "DecisionTree": {
+      "kendall_w": 0.578
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2931
+    }
+  },
+  "patient_100979_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5173
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5093
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2129
+    }
+  },
+  "patient_101019_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4798
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5367
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2367
+    }
+  },
+  "patient_101310_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5395
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5083
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2969
+    }
+  },
+  "patient_101670_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4789
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5474
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2311
+    }
+  },
+  "patient_102243_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5553
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4963
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2327
+    }
+  },
+  "patient_10232_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5421
+    },
+    "DecisionTree": {
+      "kendall_w": 0.557
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2043
+    }
+  },
+  "patient_103107_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4273
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5978
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2421
+    }
+  },
+  "patient_103134_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4669
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5799
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2812
+    }
+  },
+  "patient_10328_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3707
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5303
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2587
+    }
+  },
+  "patient_103652_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4531
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5406
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2825
+    }
+  },
+  "patient_103723_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5528
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5754
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1967
+    }
+  },
+  "patient_105345_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4523
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5322
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3055
+    }
+  },
+  "patient_108680_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3025
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5118
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2076
+    }
+  },
+  "patient_108708_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5735
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5972
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3099
+    }
+  },
+  "patient_109237_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5313
+    },
+    "DecisionTree": {
+      "kendall_w": 0.547
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2983
+    }
+  },
+  "patient_109860_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3772
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5097
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2481
+    }
+  },
+  "patient_111748_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5456
+    },
+    "DecisionTree": {
+      "kendall_w": 0.564
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3181
+    }
+  },
+  "patient_112525_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.605
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5293
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3173
+    }
+  },
+  "patient_113236_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4289
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5269
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2159
+    }
+  },
+  "patient_114584_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5415
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5904
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3233
+    }
+  },
+  "patient_114935_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4945
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5313
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2186
+    }
+  },
+  "patient_115156_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5615
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4156
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3255
+    }
+  },
+  "patient_115540_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5332
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5372
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2894
+    }
+  },
+  "patient_115612_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.46
+    },
+    "DecisionTree": {
+      "kendall_w": 0.53
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1734
+    }
+  },
+  "patient_11565_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4325
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5449
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2243
+    }
+  },
+  "patient_116056_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5383
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4951
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2852
+    }
+  },
+  "patient_118241_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3346
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6011
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2131
+    }
+  },
+  "patient_118333_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3736
+    },
+    "DecisionTree": {
+      "kendall_w": 0.559
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2356
+    }
+  },
+  "patient_118369_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5523
+    },
+    "DecisionTree": {
+      "kendall_w": 0.587
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2572
+    }
+  },
+  "patient_119976_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5183
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5297
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2195
+    }
+  },
+  "patient_121016_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4384
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4976
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3149
+    }
+  },
+  "patient_121071_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4478
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5021
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2573
+    }
+  },
+  "patient_122641_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5676
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5017
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3313
+    }
+  },
+  "patient_123193_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5367
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4956
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1968
+    }
+  },
+  "patient_123790_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4773
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5357
+    },
+    "XGBOOST": {
+      "kendall_w": 0.228
+    }
+  },
+  "patient_124432_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.422
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5453
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3196
+    }
+  },
+  "patient_124733_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4735
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5744
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2373
+    }
+  },
+  "patient_124997_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5522
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5809
+    },
+    "XGBOOST": {
+      "kendall_w": 0.21
+    }
+  },
+  "patient_125725_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4705
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5541
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2973
+    }
+  },
+  "patient_125998_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.356
+    },
+    "DecisionTree": {
+      "kendall_w": 0.54
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2055
+    }
+  },
+  "patient_12768_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5822
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5361
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3162
+    }
+  },
+  "patient_127876_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3649
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4978
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2897
+    }
+  },
+  "patient_128223_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4663
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5302
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3299
+    }
+  },
+  "patient_128990_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2778
+    },
+    "DecisionTree": {
+      "kendall_w": 0.554
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2466
+    }
+  },
+  "patient_130002_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.479
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5122
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2382
+    }
+  },
+  "patient_130409_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3233
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5544
+    },
+    "XGBOOST": {
+      "kendall_w": 0.223
+    }
+  },
+  "patient_130695_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4469
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5374
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2896
+    }
+  },
+  "patient_13604_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4786
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4944
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2705
+    }
+  },
+  "patient_14132_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4822
+    },
+    "DecisionTree": {
+      "kendall_w": 0.545
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2749
+    }
+  },
+  "patient_1428_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4285
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5365
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1917
+    }
+  },
+  "patient_14540_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5562
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5492
+    },
+    "XGBOOST": {
+      "kendall_w": 0.273
+    }
+  },
+  "patient_15003_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4285
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4836
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2315
+    }
+  },
+  "patient_15144_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3033
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5108
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2376
+    }
+  },
+  "patient_15988_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4297
+    },
+    "DecisionTree": {
+      "kendall_w": 0.542
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2735
+    }
+  },
+  "patient_16810_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4614
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5255
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2849
+    }
+  },
+  "patient_17073_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4635
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5232
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2331
+    }
+  },
+  "patient_17380_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3916
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4427
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1837
+    }
+  },
+  "patient_17614_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4665
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5484
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2165
+    }
+  },
+  "patient_17652_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4305
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4829
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2653
+    }
+  },
+  "patient_1775_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.311
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5239
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2141
+    }
+  },
+  "patient_17799_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3515
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5639
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2099
+    }
+  },
+  "patient_17923_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4925
+    },
+    "DecisionTree": {
+      "kendall_w": 0.549
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2922
+    }
+  },
+  "patient_1948_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5728
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4973
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3806
+    }
+  },
+  "patient_19956_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5136
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5643
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2859
+    }
+  },
+  "patient_21090_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5517
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5316
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2882
+    }
+  },
+  "patient_22398_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.465
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5437
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2883
+    }
+  },
+  "patient_23412_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3744
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4772
+    },
+    "XGBOOST": {
+      "kendall_w": 0.278
+    }
+  },
+  "patient_23838_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5772
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4718
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2654
+    }
+  },
+  "patient_24277_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5592
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4743
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2488
+    }
+  },
+  "patient_24475_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5087
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5697
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2862
+    }
+  },
+  "patient_25588_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2988
+    },
+    "DecisionTree": {
+      "kendall_w": 0.532
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1734
+    }
+  },
+  "patient_25731_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5726
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5226
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2652
+    }
+  },
+  "patient_25765_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5375
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5447
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2492
+    }
+  },
+  "patient_26422_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5591
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5399
+    },
+    "XGBOOST": {
+      "kendall_w": 0.293
+    }
+  },
+  "patient_27046_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5083
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5464
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2671
+    }
+  },
+  "patient_27695_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6138
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4883
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2701
+    }
+  },
+  "patient_28346_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4408
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5661
+    },
+    "XGBOOST": {
+      "kendall_w": 0.255
+    }
+  },
+  "patient_28451_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4508
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6027
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2479
+    }
+  },
+  "patient_28460_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.485
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5346
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2607
+    }
+  },
+  "patient_2856_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5514
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5423
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3516
+    }
+  },
+  "patient_2961_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5597
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5742
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2981
+    }
+  },
+  "patient_29880_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.485
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6295
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3019
+    }
+  },
+  "patient_30640_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5783
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4854
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2699
+    }
+  },
+  "patient_31121_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2912
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4987
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1994
+    }
+  },
+  "patient_31186_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5069
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5709
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2476
+    }
+  },
+  "patient_31760_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3987
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4741
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2711
+    }
+  },
+  "patient_32448_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4709
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4979
+    },
+    "XGBOOST": {
+      "kendall_w": 0.32
+    }
+  },
+  "patient_33277_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6723
+    },
+    "DecisionTree": {
+      "kendall_w": 0.556
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3084
+    }
+  },
+  "patient_33348_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3315
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5503
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2235
+    }
+  },
+  "patient_34158_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5647
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5073
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2123
+    }
+  },
+  "patient_34252_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3343
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5159
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2078
+    }
+  },
+  "patient_34584_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2944
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4557
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2655
+    }
+  },
+  "patient_34719_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5606
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5423
+    },
+    "XGBOOST": {
+      "kendall_w": 0.281
+    }
+  },
+  "patient_35858_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.372
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5237
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3316
+    }
+  },
+  "patient_36067_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3168
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5095
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2126
+    }
+  },
+  "patient_37289_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5515
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5066
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2468
+    }
+  },
+  "patient_38241_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5856
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5017
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3198
+    }
+  },
+  "patient_38281_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2814
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4948
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2055
+    }
+  },
+  "patient_38389_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3553
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5215
+    },
+    "XGBOOST": {
+      "kendall_w": 0.25
+    }
+  },
+  "patient_40389_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2969
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4559
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1944
+    }
+  },
+  "patient_41202_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5604
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6045
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2555
+    }
+  },
+  "patient_41685_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4153
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5728
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2977
+    }
+  },
+  "patient_42850_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3702
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4908
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2749
+    }
+  },
+  "patient_43456_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5057
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4869
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3705
+    }
+  },
+  "patient_4511_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4724
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5736
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3009
+    }
+  },
+  "patient_45411_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5681
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5124
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2965
+    }
+  },
+  "patient_46298_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3798
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5339
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1736
+    }
+  },
+  "patient_46504_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4049
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4578
+    },
+    "XGBOOST": {
+      "kendall_w": 0.263
+    }
+  },
+  "patient_48061_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6122
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5741
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2862
+    }
+  },
+  "patient_48971_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4898
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6356
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2827
+    }
+  },
+  "patient_49777_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3677
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4937
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3376
+    }
+  },
+  "patient_49956_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3952
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5367
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1979
+    }
+  },
+  "patient_5017_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4906
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5053
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2536
+    }
+  },
+  "patient_51117_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3608
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5089
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2508
+    }
+  },
+  "patient_51255_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5173
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5376
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2199
+    }
+  },
+  "patient_52495_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5111
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5317
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2861
+    }
+  },
+  "patient_52595_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4381
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5731
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3976
+    }
+  },
+  "patient_52758_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.57
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4622
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3254
+    }
+  },
+  "patient_5346_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4731
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5952
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2499
+    }
+  },
+  "patient_54332_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4796
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5342
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1932
+    }
+  },
+  "patient_54379_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4302
+    },
+    "DecisionTree": {
+      "kendall_w": 0.6103
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2003
+    }
+  },
+  "patient_56098_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4411
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5832
+    },
+    "XGBOOST": {
+      "kendall_w": 0.229
+    }
+  },
+  "patient_56436_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4796
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4807
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3156
+    }
+  },
+  "patient_57497_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4394
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5113
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2189
+    }
+  },
+  "patient_57525_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6618
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5745
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2552
+    }
+  },
+  "patient_58171_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3875
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5327
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2192
+    }
+  },
+  "patient_59046_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5506
+    },
+    "DecisionTree": {
+      "kendall_w": 0.511
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3348
+    }
+  },
+  "patient_59084_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4686
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5062
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3488
+    }
+  },
+  "patient_59193_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5925
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5576
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2827
+    }
+  },
+  "patient_59554_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5035
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5405
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3226
+    }
+  },
+  "patient_60350_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3863
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5286
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2397
+    }
+  },
+  "patient_60886_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6134
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5649
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2618
+    }
+  },
+  "patient_61421_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4883
+    },
+    "DecisionTree": {
+      "kendall_w": 0.516
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2305
+    }
+  },
+  "patient_61913_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4967
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5931
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2089
+    }
+  },
+  "patient_62084_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4457
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5663
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2622
+    }
+  },
+  "patient_62657_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5628
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5347
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3204
+    }
+  },
+  "patient_62934_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5234
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5591
+    },
+    "XGBOOST": {
+      "kendall_w": 0.284
+    }
+  },
+  "patient_64429_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4836
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5009
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2122
+    }
+  },
+  "patient_64832_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4316
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5291
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2748
+    }
+  },
+  "patient_65615_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4219
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5141
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2164
+    }
+  },
+  "patient_66014_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5106
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5564
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2259
+    }
+  },
+  "patient_664_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4174
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5193
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2235
+    }
+  },
+  "patient_66726_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4418
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4757
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2694
+    }
+  },
+  "patient_66828_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.337
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5764
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2037
+    }
+  },
+  "patient_67657_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4197
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4793
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2183
+    }
+  },
+  "patient_67870_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5109
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5325
+    },
+    "XGBOOST": {
+      "kendall_w": 0.269
+    }
+  },
+  "patient_70639_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4384
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5708
+    },
+    "XGBOOST": {
+      "kendall_w": 0.267
+    }
+  },
+  "patient_71235_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4373
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5458
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1977
+    }
+  },
+  "patient_7218_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4391
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5167
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2918
+    }
+  },
+  "patient_73423_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5802
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5398
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2219
+    }
+  },
+  "patient_7596_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5947
+    },
+    "DecisionTree": {
+      "kendall_w": 0.555
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2667
+    }
+  },
+  "patient_76265_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4435
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5688
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2925
+    }
+  },
+  "patient_77103_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4983
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5391
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2511
+    }
+  },
+  "patient_77573_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4506
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5639
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2554
+    }
+  },
+  "patient_78645_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5011
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5073
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2552
+    }
+  },
+  "patient_79240_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4611
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5215
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2759
+    }
+  },
+  "patient_80051_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5591
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4735
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2672
+    }
+  },
+  "patient_80486_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5122
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5446
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2565
+    }
+  },
+  "patient_80676_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4249
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5236
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2712
+    }
+  },
+  "patient_80680_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3647
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5252
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1944
+    }
+  },
+  "patient_81200_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5211
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5157
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3149
+    }
+  },
+  "patient_81761_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.2899
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5265
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2887
+    }
+  },
+  "patient_83129_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4893
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4632
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3505
+    }
+  },
+  "patient_83905_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4013
+    },
+    "DecisionTree": {
+      "kendall_w": 0.588
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2406
+    }
+  },
+  "patient_85113_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4357
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5202
+    },
+    "XGBOOST": {
+      "kendall_w": 0.227
+    }
+  },
+  "patient_85660_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3568
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5481
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2501
+    }
+  },
+  "patient_86146_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4396
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5192
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3088
+    }
+  },
+  "patient_87623_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5436
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5395
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2443
+    }
+  },
+  "patient_87792_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5099
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5223
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2331
+    }
+  },
+  "patient_87862_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5074
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5223
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2702
+    }
+  },
+  "patient_88517_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4265
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5176
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2148
+    }
+  },
+  "patient_88615_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5136
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5201
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3425
+    }
+  },
+  "patient_89042_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.382
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5686
+    },
+    "XGBOOST": {
+      "kendall_w": 0.193
+    }
+  },
+  "patient_89102_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5971
+    },
+    "DecisionTree": {
+      "kendall_w": 0.574
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3164
+    }
+  },
+  "patient_90223_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4794
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5239
+    },
+    "XGBOOST": {
+      "kendall_w": 0.257
+    }
+  },
+  "patient_90689_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5948
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5494
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2427
+    }
+  },
+  "patient_91264_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.359
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5366
+    },
+    "XGBOOST": {
+      "kendall_w": 0.1896
+    }
+  },
+  "patient_9166_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4985
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4878
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2455
+    }
+  },
+  "patient_9277_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3332
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4953
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2203
+    }
+  },
+  "patient_92784_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3623
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4799
+    },
+    "XGBOOST": {
+      "kendall_w": 0.325
+    }
+  },
+  "patient_93160_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5664
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4491
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2658
+    }
+  },
+  "patient_93377_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6054
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5534
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3118
+    }
+  },
+  "patient_94134_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4609
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5582
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2317
+    }
+  },
+  "patient_94432_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3603
+    },
+    "DecisionTree": {
+      "kendall_w": 0.536
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2612
+    }
+  },
+  "patient_94606_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3493
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5329
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2256
+    }
+  },
+  "patient_94638_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3645
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5582
+    },
+    "XGBOOST": {
+      "kendall_w": 0.251
+    }
+  },
+  "patient_94664_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.546
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5348
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3044
+    }
+  },
+  "patient_95594_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.6137
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5316
+    },
+    "XGBOOST": {
+      "kendall_w": 0.286
+    }
+  },
+  "patient_9587_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4926
+    },
+    "DecisionTree": {
+      "kendall_w": 0.587
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2142
+    }
+  },
+  "patient_95938_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4675
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5625
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2676
+    }
+  },
+  "patient_95980_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.493
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5651
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2804
+    }
+  },
+  "patient_96367_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.559
+    },
+    "DecisionTree": {
+      "kendall_w": 0.4851
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3143
+    }
+  },
+  "patient_9833_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4247
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5618
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2935
+    }
+  },
+  "patient_98978_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4055
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5786
+    },
+    "XGBOOST": {
+      "kendall_w": 0.3129
+    }
+  },
+  "patient_99468_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4204
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5984
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2767
+    }
+  },
+  "patient_99516_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.3792
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5442
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2211
+    }
+  },
+  "patient_99614_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5037
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5539
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2335
+    }
+  },
+  "patient_99634_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.4698
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5508
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2833
+    }
+  },
+  "patient_99933_explanation.json": {
+    "LogisticRegression": {
+      "kendall_w": 0.5499
+    },
+    "DecisionTree": {
+      "kendall_w": 0.5091
+    },
+    "XGBOOST": {
+      "kendall_w": 0.2836
+    }
+  }
+}

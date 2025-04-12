@@ -1,0 +1,1687 @@
+
+{
+  "feature_level": {
+    "LogisticRegression": {
+      "d1_creatinine_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_lactate_min": {
+        "sign_agreement": 0.5
+      },
+      "gcs_eyes_apache": {
+        "sign_agreement": 1.0
+      },
+      "ventilated_apache": {
+        "sign_agreement": 0.5
+      },
+      "arf_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_lactate_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_wbc_min": {
+        "sign_agreement": 0.5
+      },
+      "apache_3j_diagnosis": {
+        "sign_agreement": 0.5
+      },
+      "d1_sodium_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_sysbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_mbp_noninvasive_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_bun_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_lactate_max": {
+        "sign_agreement": 0.5
+      },
+      "elective_surgery": {
+        "sign_agreement": 0.5
+      },
+      "d1_creatinine_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_sysbp_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_sodium_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_mbp_min": {
+        "sign_agreement": 1.0
+      },
+      "age": {
+        "sign_agreement": 1.0
+      },
+      "d1_heartrate_max": {
+        "sign_agreement": 1.0
+      },
+      "gcs_verbal_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_hemaglobin_min": {
+        "sign_agreement": 0.0
+      },
+      "apache_3j_bodysystem": {
+        "sign_agreement": 1.0
+      },
+      "d1_hemaglobin_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "apache_post_operative": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_spo2_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_lactate_max": {
+        "sign_agreement": 0.5
+      },
+      "icu_admit_source": {
+        "sign_agreement": 1.0
+      },
+      "d1_albumin_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_min": {
+        "sign_agreement": 1.0
+      },
+      "resprate_apache": {
+        "sign_agreement": 1.0
+      },
+      "diabetes_mellitus": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_noninvasive_min": {
+        "sign_agreement": 1.0
+      },
+      "gcs_motor_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_albumin_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_spo2_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_mbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_hematocrit_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_resprate_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_platelets_max": {
+        "sign_agreement": 0.5
+      },
+      "hospital_admit_source": {
+        "sign_agreement": 0.5
+      },
+      "weight": {
+        "sign_agreement": 0.5
+      },
+      "h1_heartrate_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_resprate_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_potassium_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_wbc_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_noninvasive_min": {
+        "sign_agreement": 1.0
+      },
+      "bun_apache": {
+        "sign_agreement": 0.5
+      },
+      "apache_2_bodysystem": {
+        "sign_agreement": 1.0
+      },
+      "creatinine_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_platelets_min": {
+        "sign_agreement": 0.5
+      },
+      "pre_icu_los_days": {
+        "sign_agreement": 0.5
+      },
+      "d1_spo2_max": {
+        "sign_agreement": 0.5
+      },
+      "apache_2_diagnosis": {
+        "sign_agreement": 1.0
+      },
+      "d1_temp_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_potassium_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_temp_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_noninvasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_arterial_po2_max": {
+        "sign_agreement": 0.5
+      },
+      "gender": {
+        "sign_agreement": 0.5
+      },
+      "d1_hematocrit_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_mbp_max": {
+        "sign_agreement": 1.0
+      },
+      "icu_id": {
+        "sign_agreement": 1.0
+      },
+      "map_apache": {
+        "sign_agreement": 1.0
+      },
+      "fio2_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_resprate_min": {
+        "sign_agreement": 1.0
+      },
+      "icu_type": {
+        "sign_agreement": 0.5
+      },
+      "urineoutput_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_glucose_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_po2_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_bun_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_mbp_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_mbp_noninvasive_min": {
+        "sign_agreement": 1.0
+      },
+      "glucose_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_pco2_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_temp_min": {
+        "sign_agreement": 0.5
+      },
+      "immunosuppression": {
+        "sign_agreement": 1.0
+      },
+      "h1_wbc_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_glucose_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_hemaglobin_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_sodium_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_wbc_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_max": {
+        "sign_agreement": 1.0
+      },
+      "intubated_apache": {
+        "sign_agreement": 1.0
+      },
+      "h1_heartrate_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_arterial_po2_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_hematocrit_max": {
+        "sign_agreement": 0.5
+      },
+      "wbc_apache": {
+        "sign_agreement": 0.5
+      },
+      "h1_platelets_max": {
+        "sign_agreement": 0.5
+      },
+      "cirrhosis": {
+        "sign_agreement": 0.5
+      },
+      "icu_stay_type": {
+        "sign_agreement": 1.0
+      },
+      "h1_hemaglobin_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_po2_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_potassium_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_platelets_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_glucose_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_hco3_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_pao2fio2ratio_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_temp_max": {
+        "sign_agreement": 0.5
+      },
+      "pao2_apache": {
+        "sign_agreement": 0.5
+      },
+      "bmi": {
+        "sign_agreement": 1.0
+      },
+      "h1_arterial_ph_max": {
+        "sign_agreement": 0.5
+      },
+      "heart_rate_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_calcium_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_pao2fio2ratio_min": {
+        "sign_agreement": 0.5
+      },
+      "ethnicity": {
+        "sign_agreement": 0.5
+      },
+      "h1_creatinine_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_potassium_max": {
+        "sign_agreement": 0.5
+      },
+      "paco2_for_ph_apache": {
+        "sign_agreement": 0.5
+      },
+      "paco2_apache": {
+        "sign_agreement": 1.0
+      },
+      "height": {
+        "sign_agreement": 1.0
+      },
+      "hospital_id": {
+        "sign_agreement": 1.0
+      },
+      "h1_diasbp_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_mbp_invasive_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_diasbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_sodium_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_pco2_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_ph_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_pco2_min": {
+        "sign_agreement": 0.5
+      },
+      "hematocrit_apache": {
+        "sign_agreement": 1.0
+      },
+      "d1_calcium_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_creatinine_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_hematocrit_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_heartrate_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_diasbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_ph_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_inr_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_inr_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_calcium_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_inr_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_inr_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_spo2_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_diasbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_pao2fio2ratio_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_arterial_ph_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_mbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "sodium_apache": {
+        "sign_agreement": 0.5
+      },
+      "temp_apache": {
+        "sign_agreement": 1.0
+      },
+      "h1_calcium_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_bilirubin_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_bun_min": {
+        "sign_agreement": 1.0
+      },
+      "albumin_apache": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_noninvasive_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_bilirubin_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_arterial_pco2_max": {
+        "sign_agreement": 0.5
+      },
+      "ph_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_resprate_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_mbp_invasive_max": {
+        "sign_agreement": 1.0
+      },
+      "hepatic_failure": {
+        "sign_agreement": 0.0
+      },
+      "d1_hco3_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_albumin_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_bilirubin_min": {
+        "sign_agreement": 0.5
+      },
+      "lymphoma": {
+        "sign_agreement": 0.5
+      },
+      "renal_function_triad_flag": {
+        "sign_agreement": 0.5
+      },
+      "h1_albumin_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "mods_pentad_flag": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_invasive_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_diasbp_invasive_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_bun_max": {
+        "sign_agreement": 0.5
+      },
+      "bilirubin_apache": {
+        "sign_agreement": 0.5
+      },
+      "aids": {
+        "sign_agreement": 0.0
+      },
+      "leukemia": {
+        "sign_agreement": 0.5
+      },
+      "d1_bilirubin_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_mbp_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_hco3_min": {
+        "sign_agreement": 0.0
+      },
+      "solid_tumor_with_metastasis": {
+        "sign_agreement": 0.5
+      },
+      "gcs_unable_apache": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_invasive_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_hco3_max": {
+        "sign_agreement": 0.0
+      },
+      "d1_pao2fio2ratio_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_glucose_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_sysbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "readmission_status": {
+        "sign_agreement": 0.5
+      }
+    },
+    "DecisionTree": {
+      "d1_lactate_min": {
+        "sign_agreement": 0.0
+      },
+      "ventilated_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_lactate_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_noninvasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_temp_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_bun_min": {
+        "sign_agreement": 0.5
+      },
+      "apache_3j_diagnosis": {
+        "sign_agreement": 0.0
+      },
+      "d1_hco3_max": {
+        "sign_agreement": 0.5
+      },
+      "gcs_motor_apache": {
+        "sign_agreement": 0.0
+      },
+      "d1_sysbp_noninvasive_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_resprate_max": {
+        "sign_agreement": 0.5
+      },
+      "gcs_eyes_apache": {
+        "sign_agreement": 1.0
+      },
+      "d1_sysbp_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_ph_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_heartrate_min": {
+        "sign_agreement": 0.0
+      },
+      "bun_apache": {
+        "sign_agreement": 0.0
+      },
+      "apache_2_diagnosis": {
+        "sign_agreement": 0.5
+      },
+      "d1_pao2fio2ratio_max": {
+        "sign_agreement": 0.5
+      },
+      "icu_id": {
+        "sign_agreement": 0.0
+      },
+      "d1_glucose_max": {
+        "sign_agreement": 0.0
+      },
+      "age": {
+        "sign_agreement": 0.0
+      },
+      "ethnicity": {
+        "sign_agreement": 0.5
+      },
+      "elective_surgery": {
+        "sign_agreement": 0.5
+      },
+      "creatinine_apache": {
+        "sign_agreement": 0.5
+      },
+      "bilirubin_apache": {
+        "sign_agreement": 0.5
+      },
+      "arf_apache": {
+        "sign_agreement": 0.5
+      },
+      "apache_post_operative": {
+        "sign_agreement": 0.5
+      },
+      "gcs_verbal_apache": {
+        "sign_agreement": 0.5
+      },
+      "glucose_apache": {
+        "sign_agreement": 0.5
+      },
+      "fio2_apache": {
+        "sign_agreement": 0.5
+      },
+      "gcs_unable_apache": {
+        "sign_agreement": 0.5
+      },
+      "intubated_apache": {
+        "sign_agreement": 0.5
+      },
+      "map_apache": {
+        "sign_agreement": 0.5
+      },
+      "paco2_apache": {
+        "sign_agreement": 0.5
+      },
+      "paco2_for_ph_apache": {
+        "sign_agreement": 0.5
+      },
+      "pao2_apache": {
+        "sign_agreement": 0.5
+      },
+      "ph_apache": {
+        "sign_agreement": 0.5
+      },
+      "heart_rate_apache": {
+        "sign_agreement": 0.5
+      },
+      "hematocrit_apache": {
+        "sign_agreement": 0.5
+      },
+      "sodium_apache": {
+        "sign_agreement": 0.5
+      },
+      "resprate_apache": {
+        "sign_agreement": 0.5
+      },
+      "urineoutput_apache": {
+        "sign_agreement": 0.5
+      },
+      "temp_apache": {
+        "sign_agreement": 0.5
+      },
+      "height": {
+        "sign_agreement": 0.5
+      },
+      "gender": {
+        "sign_agreement": 0.5
+      },
+      "icu_admit_source": {
+        "sign_agreement": 0.5
+      },
+      "icu_stay_type": {
+        "sign_agreement": 0.5
+      },
+      "weight": {
+        "sign_agreement": 0.5
+      },
+      "readmission_status": {
+        "sign_agreement": 0.5
+      },
+      "pre_icu_los_days": {
+        "sign_agreement": 0.5
+      },
+      "albumin_apache": {
+        "sign_agreement": 0.5
+      },
+      "icu_type": {
+        "sign_agreement": 0.5
+      },
+      "hospital_admit_source": {
+        "sign_agreement": 0.5
+      },
+      "hospital_id": {
+        "sign_agreement": 0.5
+      },
+      "bmi": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_heartrate_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_noninvasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_noninvasive_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_min": {
+        "sign_agreement": 0.5
+      },
+      "wbc_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_spo2_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_spo2_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_noninvasive_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_noninvasive_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_heartrate_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_heartrate_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_mbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_mbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_mbp_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_mbp_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_mbp_noninvasive_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_noninvasive_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_temp_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_noninvasive_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_resprate_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_spo2_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_spo2_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_resprate_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_resprate_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_mbp_noninvasive_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_temp_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_albumin_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_bilirubin_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_albumin_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_noninvasive_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_noninvasive_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_temp_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_calcium_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_calcium_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_bun_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_bilirubin_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_glucose_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_hco3_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_creatinine_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_creatinine_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_hemaglobin_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_hemaglobin_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_hematocrit_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_hematocrit_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_inr_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_inr_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_platelets_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_platelets_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_potassium_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_potassium_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_wbc_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_wbc_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_sodium_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_sodium_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_bilirubin_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_bilirubin_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_bun_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_bun_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_calcium_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_calcium_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_albumin_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_albumin_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_glucose_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_glucose_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_hco3_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_hco3_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_hemaglobin_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_hemaglobin_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_hematocrit_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_hematocrit_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_inr_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_inr_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_lactate_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_lactate_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_platelets_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_platelets_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_creatinine_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_creatinine_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_potassium_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_potassium_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_wbc_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_sodium_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_wbc_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_pco2_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_pco2_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_sodium_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_ph_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_po2_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_po2_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_pao2fio2ratio_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_pco2_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_pco2_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_ph_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_ph_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_po2_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_po2_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_pao2fio2ratio_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_pao2fio2ratio_min": {
+        "sign_agreement": 0.5
+      },
+      "aids": {
+        "sign_agreement": 0.5
+      },
+      "cirrhosis": {
+        "sign_agreement": 0.5
+      },
+      "diabetes_mellitus": {
+        "sign_agreement": 0.5
+      },
+      "hepatic_failure": {
+        "sign_agreement": 0.5
+      },
+      "immunosuppression": {
+        "sign_agreement": 0.5
+      },
+      "leukemia": {
+        "sign_agreement": 0.5
+      },
+      "lymphoma": {
+        "sign_agreement": 0.5
+      },
+      "solid_tumor_with_metastasis": {
+        "sign_agreement": 0.5
+      },
+      "apache_3j_bodysystem": {
+        "sign_agreement": 0.5
+      },
+      "apache_2_bodysystem": {
+        "sign_agreement": 0.5
+      },
+      "renal_function_triad_flag": {
+        "sign_agreement": 0.5
+      },
+      "mods_pentad_flag": {
+        "sign_agreement": 0.5
+      }
+    },
+    "XGBOOST": {
+      "ventilated_apache": {
+        "sign_agreement": 0.0
+      },
+      "gcs_eyes_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_sodium_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_spo2_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_heartrate_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_wbc_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_temp_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_heartrate_max": {
+        "sign_agreement": 1.0
+      },
+      "apache_3j_diagnosis": {
+        "sign_agreement": 0.5
+      },
+      "gcs_verbal_apache": {
+        "sign_agreement": 0.5
+      },
+      "bmi": {
+        "sign_agreement": 0.5
+      },
+      "d1_creatinine_max": {
+        "sign_agreement": 0.5
+      },
+      "age": {
+        "sign_agreement": 1.0
+      },
+      "d1_resprate_max": {
+        "sign_agreement": 1.0
+      },
+      "arf_apache": {
+        "sign_agreement": 0.5
+      },
+      "pre_icu_los_days": {
+        "sign_agreement": 0.0
+      },
+      "d1_bun_max": {
+        "sign_agreement": 1.0
+      },
+      "gcs_motor_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_temp_max": {
+        "sign_agreement": 0.5
+      },
+      "resprate_apache": {
+        "sign_agreement": 0.0
+      },
+      "temp_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_resprate_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_temp_min": {
+        "sign_agreement": 1.0
+      },
+      "ethnicity": {
+        "sign_agreement": 1.0
+      },
+      "d1_lactate_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_bun_min": {
+        "sign_agreement": 0.0
+      },
+      "weight": {
+        "sign_agreement": 0.5
+      },
+      "d1_sodium_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_creatinine_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_platelets_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_calcium_max": {
+        "sign_agreement": 0.5
+      },
+      "elective_surgery": {
+        "sign_agreement": 1.0
+      },
+      "d1_albumin_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_hemaglobin_min": {
+        "sign_agreement": 0.5
+      },
+      "heart_rate_apache": {
+        "sign_agreement": 0.0
+      },
+      "d1_arterial_pco2_min": {
+        "sign_agreement": 0.5
+      },
+      "urineoutput_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_ph_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_resprate_min": {
+        "sign_agreement": 1.0
+      },
+      "apache_3j_bodysystem": {
+        "sign_agreement": 1.0
+      },
+      "apache_2_bodysystem": {
+        "sign_agreement": 1.0
+      },
+      "icu_id": {
+        "sign_agreement": 0.5
+      },
+      "h1_heartrate_min": {
+        "sign_agreement": 0.5
+      },
+      "diabetes_mellitus": {
+        "sign_agreement": 0.5
+      },
+      "d1_hemaglobin_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_wbc_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_glucose_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_hco3_max": {
+        "sign_agreement": 0.5
+      },
+      "icu_type": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_min": {
+        "sign_agreement": 0.5
+      },
+      "map_apache": {
+        "sign_agreement": 1.0
+      },
+      "d1_pao2fio2ratio_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_arterial_po2_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_inr_max": {
+        "sign_agreement": 0.0
+      },
+      "hospital_admit_source": {
+        "sign_agreement": 0.5
+      },
+      "h1_heartrate_max": {
+        "sign_agreement": 0.5
+      },
+      "solid_tumor_with_metastasis": {
+        "sign_agreement": 0.0
+      },
+      "d1_platelets_max": {
+        "sign_agreement": 0.0
+      },
+      "d1_pao2fio2ratio_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_diasbp_noninvasive_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_spo2_max": {
+        "sign_agreement": 0.0
+      },
+      "d1_hco3_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_invasive_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_sysbp_invasive_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_resprate_max": {
+        "sign_agreement": 0.0
+      },
+      "d1_arterial_pco2_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_lactate_max": {
+        "sign_agreement": 1.0
+      },
+      "height": {
+        "sign_agreement": 0.0
+      },
+      "h1_temp_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_spo2_min": {
+        "sign_agreement": 1.0
+      },
+      "albumin_apache": {
+        "sign_agreement": 0.0
+      },
+      "d1_arterial_ph_max": {
+        "sign_agreement": 0.0
+      },
+      "d1_mbp_noninvasive_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_inr_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_lactate_max": {
+        "sign_agreement": 0.0
+      },
+      "glucose_apache": {
+        "sign_agreement": 0.5
+      },
+      "fio2_apache": {
+        "sign_agreement": 0.0
+      },
+      "icu_admit_source": {
+        "sign_agreement": 1.0
+      },
+      "d1_sysbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_bilirubin_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_hematocrit_max": {
+        "sign_agreement": 0.5
+      },
+      "wbc_apache": {
+        "sign_agreement": 1.0
+      },
+      "d1_sysbp_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_diasbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_glucose_max": {
+        "sign_agreement": 1.0
+      },
+      "hospital_id": {
+        "sign_agreement": 0.0
+      },
+      "apache_2_diagnosis": {
+        "sign_agreement": 1.0
+      },
+      "gcs_unable_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_sysbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_mbp_max": {
+        "sign_agreement": 0.0
+      },
+      "d1_sysbp_min": {
+        "sign_agreement": 0.5
+      },
+      "gender": {
+        "sign_agreement": 0.5
+      },
+      "hematocrit_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_bilirubin_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_albumin_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_glucose_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_mbp_noninvasive_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_diasbp_max": {
+        "sign_agreement": 0.0
+      },
+      "d1_diasbp_invasive_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_sysbp_noninvasive_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_arterial_po2_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_spo2_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "d1_hematocrit_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_diasbp_noninvasive_min": {
+        "sign_agreement": 0.5
+      },
+      "paco2_apache": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_lactate_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_diasbp_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_inr_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_glucose_min": {
+        "sign_agreement": 0.5
+      },
+      "d1_calcium_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_mbp_invasive_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_inr_min": {
+        "sign_agreement": 0.5
+      },
+      "immunosuppression": {
+        "sign_agreement": 0.5
+      },
+      "h1_hco3_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_potassium_min": {
+        "sign_agreement": 0.5
+      },
+      "bun_apache": {
+        "sign_agreement": 1.0
+      },
+      "sodium_apache": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "ph_apache": {
+        "sign_agreement": 0.0
+      },
+      "apache_post_operative": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_po2_min": {
+        "sign_agreement": 1.0
+      },
+      "pao2_apache": {
+        "sign_agreement": 1.0
+      },
+      "h1_sysbp_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_arterial_ph_max": {
+        "sign_agreement": 0.5
+      },
+      "d1_mbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_diasbp_invasive_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_diasbp_noninvasive_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_mbp_noninvasive_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_arterial_po2_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_noninvasive_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_pao2fio2ratio_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_mbp_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_hematocrit_min": {
+        "sign_agreement": 1.0
+      },
+      "d1_mbp_max": {
+        "sign_agreement": 0.0
+      },
+      "paco2_for_ph_apache": {
+        "sign_agreement": 1.0
+      },
+      "h1_calcium_max": {
+        "sign_agreement": 0.5
+      },
+      "intubated_apache": {
+        "sign_agreement": 0.0
+      },
+      "d1_sysbp_noninvasive_min": {
+        "sign_agreement": 0.0
+      },
+      "d1_diasbp_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_potassium_max": {
+        "sign_agreement": 0.5
+      },
+      "hepatic_failure": {
+        "sign_agreement": 0.5
+      },
+      "h1_calcium_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_wbc_max": {
+        "sign_agreement": 0.5
+      },
+      "renal_function_triad_flag": {
+        "sign_agreement": 0.0
+      },
+      "h1_hemaglobin_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_potassium_min": {
+        "sign_agreement": 1.0
+      },
+      "creatinine_apache": {
+        "sign_agreement": 1.0
+      },
+      "h1_hemaglobin_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_wbc_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_creatinine_max": {
+        "sign_agreement": 0.0
+      },
+      "icu_stay_type": {
+        "sign_agreement": 0.0
+      },
+      "h1_diasbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_pco2_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_mbp_invasive_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_pao2fio2ratio_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_bun_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_bun_min": {
+        "sign_agreement": 0.0
+      },
+      "bilirubin_apache": {
+        "sign_agreement": 1.0
+      },
+      "h1_sodium_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_bilirubin_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_platelets_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_bilirubin_max": {
+        "sign_agreement": 0.0
+      },
+      "h1_platelets_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_hco3_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_arterial_ph_min": {
+        "sign_agreement": 0.5
+      },
+      "h1_sysbp_invasive_min": {
+        "sign_agreement": 0.0
+      },
+      "h1_hematocrit_max": {
+        "sign_agreement": 0.5
+      },
+      "leukemia": {
+        "sign_agreement": 0.5
+      },
+      "d1_potassium_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_albumin_max": {
+        "sign_agreement": 0.5
+      },
+      "h1_arterial_pco2_min": {
+        "sign_agreement": 1.0
+      },
+      "h1_albumin_min": {
+        "sign_agreement": 0.5
+      },
+      "lymphoma": {
+        "sign_agreement": 0.0
+      },
+      "h1_sodium_max": {
+        "sign_agreement": 1.0
+      },
+      "h1_sysbp_invasive_max": {
+        "sign_agreement": 0.5
+      },
+      "cirrhosis": {
+        "sign_agreement": 0.0
+      },
+      "h1_creatinine_min": {
+        "sign_agreement": 1.0
+      },
+      "aids": {
+        "sign_agreement": 0.5
+      },
+      "mods_pentad_flag": {
+        "sign_agreement": 1.0
+      },
+      "readmission_status": {
+        "sign_agreement": 0.0
+      }
+    }
+  },
+  "global": {
+    "pearson": {
+      "LogisticRegression": {
+        "Lime_vs_SHAP": 0.4060527777708818,
+        "Inherent_vs_SHAP": 0.9983987997139996,
+        "Inherent_vs_Lime": 0.42403855383061806
+      },
+      "DecisionTree": {
+        "Lime_vs_SHAP": -0.40325327843401987,
+        "Inherent_vs_SHAP": 0.89567027421749,
+        "Inherent_vs_Lime": -0.42869686778696214
+      },
+      "XGBOOST": {
+        "Lime_vs_SHAP": -0.15191142802970017,
+        "Inherent_vs_SHAP": -0.2404658327738794,
+        "Inherent_vs_Lime": -0.030983233200754818
+      }
+    },
+    "kendall_w": {
+      "LogisticRegression": 0.26643787544820524,
+      "DecisionTree": 0.11911770342229848,
+      "XGBOOST": -0.047418883484457254
+    },
+    "average_pairwise": {
+      "LogisticRegression": 0.6094967104384997,
+      "DecisionTree": 0.02124004266550265,
+      "XGBOOST": -0.14112016466811148
+    }
+  }
+}
