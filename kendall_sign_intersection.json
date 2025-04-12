@@ -9,8 +9,8 @@
     "DecisionTree": {
       "kendall_w": 0.578,
       "sign_agreement": 0.4286,
-      "pearson_avg": 0.4905,
-      "intersection_at_5": 0.6
+      "intersection_at_5": 0.6,
+      "pearson_avg": 0.4905
     },
     "XGBOOST": {
       "kendall_w": 0.2931,
