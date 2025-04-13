@@ -1,4002 +1,4002 @@
 {
   "patient_100432_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4479,
-      "sign_agreement": 0.3736,
-      "pearson_avg": 0.3161,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.6713,
+      "sign_agreement": 0.8659,
+      "pearson_avg": 0.5742,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.578,
-      "sign_agreement": 0.4286,
-      "intersection_at_5": 0.6,
-      "pearson_avg": 0.4905
+      "kendall_w": 0.722,
+      "sign_agreement": 0.7778,
+      "pearson_avg": 0.5902,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2931,
-      "sign_agreement": 0.2143,
-      "pearson_avg": 0.184,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4561,
+      "sign_agreement": 0.7027,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_100979_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5173,
-      "sign_agreement": 0.3187,
-      "pearson_avg": 0.5743,
+      "kendall_w": 0.5993,
+      "sign_agreement": 0.838,
+      "pearson_avg": 0.6431,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5093,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0376,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6464,
+      "sign_agreement": 0.7692,
+      "pearson_avg": 0.8188,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2129,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.1257,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4286,
+      "sign_agreement": 0.7451,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_101019_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4798,
-      "sign_agreement": 0.4341,
-      "pearson_avg": 0.3352,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.5646,
+      "sign_agreement": 0.9497,
+      "pearson_avg": 0.6159,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5367,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.5346,
+      "kendall_w": 0.8593,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8236,
       "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2367,
-      "sign_agreement": 0.1923,
-      "pearson_avg": 0.0273,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4432,
+      "sign_agreement": 0.875,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_101310_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5395,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.2808,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5657,
+      "sign_agreement": 0.8994,
+      "pearson_avg": 0.7033,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5083,
-      "sign_agreement": 0.3333,
-      "pearson_avg": -0.009,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.8215,
+      "sign_agreement": 0.8571,
+      "pearson_avg": 0.8994,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2969,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.1404,
+      "kendall_w": 0.4642,
+      "sign_agreement": 0.9167,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_101670_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4789,
-      "sign_agreement": 0.3462,
-      "pearson_avg": 0.3601,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6472,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.6911,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5474,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0372,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7412,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8431,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2311,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.1019,
+      "kendall_w": 0.4645,
+      "sign_agreement": 0.8974,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_102243_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5553,
-      "sign_agreement": 0.3846,
-      "pearson_avg": 0.5151,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.6382,
+      "sign_agreement": 0.8659,
+      "pearson_avg": 0.6604,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4963,
-      "sign_agreement": 0.7143,
-      "pearson_avg": 0.1966,
+      "kendall_w": 0.7757,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.879,
       "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2327,
-      "sign_agreement": 0.1484,
-      "pearson_avg": -0.1293,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4632,
+      "sign_agreement": 0.7333,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_10232_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5421,
-      "sign_agreement": 0.3791,
-      "pearson_avg": 0.5418,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.5989,
+      "sign_agreement": 0.8556,
+      "pearson_avg": 0.5667,
+      "intersection_at_5": 0.2667
     },
     "DecisionTree": {
-      "kendall_w": 0.557,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.439,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.6897,
+      "sign_agreement": 0.7143,
+      "pearson_avg": 0.6378,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2043,
-      "sign_agreement": 0.1429,
-      "pearson_avg": 0.0276,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3399,
+      "sign_agreement": 0.7812,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_103107_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4273,
-      "sign_agreement": 0.3901,
-      "pearson_avg": 0.3575,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6326,
+      "sign_agreement": 0.9385,
+      "pearson_avg": 0.6746,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5978,
-      "sign_agreement": 0.7143,
-      "pearson_avg": 0.5174,
+      "kendall_w": 0.7957,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.782,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2421,
-      "sign_agreement": 0.1868,
-      "pearson_avg": 0.1031,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4363,
+      "sign_agreement": 0.8889,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_103134_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4669,
-      "sign_agreement": 0.3022,
-      "pearson_avg": 0.3871,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5723,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.7691,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5799,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.5264,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6324,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.8506,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2812,
-      "sign_agreement": 0.2143,
-      "pearson_avg": 0.2342,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4339,
+      "sign_agreement": 0.8182,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_10328_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3707,
-      "sign_agreement": 0.2747,
-      "pearson_avg": 0.2115,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.6452,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.6881,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5303,
-      "sign_agreement": 0.4286,
-      "pearson_avg": -0.09,
+      "kendall_w": 0.7568,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.8032,
       "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2587,
-      "sign_agreement": 0.2088,
-      "pearson_avg": -0.0957,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3924,
+      "sign_agreement": 0.7419,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_103652_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4531,
-      "sign_agreement": 0.2912,
-      "pearson_avg": 0.3286,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.5574,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.7283,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5406,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.4187,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6516,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.8408,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.2825,
-      "sign_agreement": 0.2637,
-      "pearson_avg": 0.192,
+      "kendall_w": 0.4269,
+      "sign_agreement": 0.7895,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_103723_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5528,
-      "sign_agreement": 0.456,
-      "pearson_avg": 0.5623,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.578,
+      "sign_agreement": 0.8659,
+      "pearson_avg": 0.4636,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.5754,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.0968,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.6582,
+      "sign_agreement": 0.75,
+      "pearson_avg": 0.8608,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.1967,
-      "sign_agreement": 0.2033,
-      "pearson_avg": -0.0343,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.4684,
+      "sign_agreement": 0.7667,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_105345_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4523,
-      "sign_agreement": 0.3187,
-      "pearson_avg": 0.3127,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5543,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.7328,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5322,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.1777,
+      "kendall_w": 0.7282,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8247,
       "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3055,
-      "sign_agreement": 0.2692,
-      "pearson_avg": 0.0185,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4464,
+      "sign_agreement": 0.7857,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_108680_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3025,
-      "sign_agreement": 0.2198,
-      "pearson_avg": -0.0242,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.567,
+      "sign_agreement": 0.8389,
+      "pearson_avg": 0.5853,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5118,
-      "sign_agreement": 0.4286,
-      "pearson_avg": -0.0209,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6456,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.7608,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2076,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.2121,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4006,
+      "sign_agreement": 0.8108,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_108708_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5735,
-      "sign_agreement": 0.4505,
-      "pearson_avg": 0.3077,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.6056,
+      "sign_agreement": 0.8939,
+      "pearson_avg": 0.6202,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5972,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.3735,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.8693,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7219,
+      "intersection_at_5": 0.4667
     },
     "XGBOOST": {
-      "kendall_w": 0.3099,
-      "sign_agreement": 0.2308,
-      "pearson_avg": 0.1569,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.5045,
+      "sign_agreement": 0.8,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_109237_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5313,
-      "sign_agreement": 0.3901,
-      "pearson_avg": 0.5189,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5868,
+      "sign_agreement": 0.8994,
+      "pearson_avg": 0.5285,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.547,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.4952,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.8499,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7869,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2983,
-      "sign_agreement": 0.1484,
-      "pearson_avg": 0.1081,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.5146,
+      "sign_agreement": 0.9333,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_109860_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3772,
-      "sign_agreement": 0.2418,
-      "pearson_avg": 0.0643,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.5892,
+      "sign_agreement": 0.838,
+      "pearson_avg": 0.7026,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5097,
-      "sign_agreement": 0.619,
-      "pearson_avg": -0.1043,
+      "kendall_w": 0.7348,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8565,
       "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.2481,
-      "sign_agreement": 0.1648,
-      "pearson_avg": -0.1886,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.423,
+      "sign_agreement": 0.8,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_111748_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5456,
-      "sign_agreement": 0.3681,
-      "pearson_avg": 0.5837,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.6053,
+      "sign_agreement": 0.8111,
+      "pearson_avg": 0.7901,
+      "intersection_at_5": 0.8667
     },
     "DecisionTree": {
-      "kendall_w": 0.564,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.5133,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.7461,
+      "sign_agreement": 0.8667,
+      "pearson_avg": 0.8022,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.3181,
-      "sign_agreement": 0.2253,
-      "pearson_avg": 0.2698,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.442,
+      "sign_agreement": 0.7778,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_112525_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.605,
-      "sign_agreement": 0.478,
-      "pearson_avg": 0.5035,
+      "kendall_w": 0.6087,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.7068,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5293,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.2016,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.8316,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8567,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3173,
-      "sign_agreement": 0.2143,
-      "pearson_avg": 0.0383,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4513,
+      "sign_agreement": 0.8462,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_113236_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4289,
-      "sign_agreement": 0.2912,
-      "pearson_avg": 0.2069,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.6375,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.568,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5269,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0319,
+      "kendall_w": 0.5988,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.7677,
       "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.2159,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.1132,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4145,
+      "sign_agreement": 0.7429,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_114584_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5415,
-      "sign_agreement": 0.3736,
-      "pearson_avg": 0.5349,
+      "kendall_w": 0.6071,
+      "sign_agreement": 0.8827,
+      "pearson_avg": 0.6737,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5904,
-      "sign_agreement": 0.6667,
-      "pearson_avg": 0.4403,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7746,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.758,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3233,
-      "sign_agreement": 0.2198,
-      "pearson_avg": 0.1921,
+      "kendall_w": 0.4138,
+      "sign_agreement": 0.8,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.4
     }
   },
   "patient_114935_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4945,
-      "sign_agreement": 0.3187,
-      "pearson_avg": 0.3761,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.5879,
+      "sign_agreement": 0.8556,
+      "pearson_avg": 0.6414,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5313,
-      "sign_agreement": 0.381,
-      "pearson_avg": -0.0197,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6425,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.84,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2186,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.2065,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4042,
+      "sign_agreement": 0.8571,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_115156_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5615,
-      "sign_agreement": 0.4725,
-      "pearson_avg": 0.3914,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6605,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.7013,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.4156,
-      "sign_agreement": 0.2857,
-      "pearson_avg": 0.3136,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.8117,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7315,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.3255,
-      "sign_agreement": 0.1319,
-      "pearson_avg": 0.0555,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4961,
+      "sign_agreement": 0.8125,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_115540_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5332,
-      "sign_agreement": 0.4011,
-      "pearson_avg": 0.5092,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.596,
+      "sign_agreement": 0.8444,
+      "pearson_avg": 0.683,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5372,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.4503,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7433,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8042,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2894,
-      "sign_agreement": 0.2363,
-      "pearson_avg": 0.1471,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4443,
+      "sign_agreement": 0.7778,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_115612_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.46,
-      "sign_agreement": 0.3242,
-      "pearson_avg": 0.1238,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.5619,
+      "sign_agreement": 0.8444,
+      "pearson_avg": 0.5539,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.53,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0117,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6343,
+      "sign_agreement": 0.8182,
+      "pearson_avg": 0.7785,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.1734,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.205,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3505,
+      "sign_agreement": 0.7333,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_11565_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4325,
-      "sign_agreement": 0.3132,
-      "pearson_avg": 0.2624,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.59,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.618,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5449,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.0016,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6361,
+      "sign_agreement": 0.8462,
+      "pearson_avg": 0.8344,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2243,
-      "sign_agreement": 0.1758,
-      "pearson_avg": -0.1757,
+      "kendall_w": 0.4396,
+      "sign_agreement": 0.7561,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_116056_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5383,
-      "sign_agreement": 0.3462,
-      "pearson_avg": 0.646,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6234,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.7998,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.4951,
-      "sign_agreement": 0.4286,
-      "pearson_avg": -0.0778,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6866,
+      "sign_agreement": 0.7273,
+      "pearson_avg": 0.7376,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2852,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.0503,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4599,
+      "sign_agreement": 0.8421,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_118241_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3346,
-      "sign_agreement": 0.2253,
-      "pearson_avg": 0.0461,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6037,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.549,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.6011,
-      "sign_agreement": 0.619,
-      "pearson_avg": -0.0425,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.659,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.862,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2131,
-      "sign_agreement": 0.1209,
-      "pearson_avg": -0.208,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.4073,
+      "sign_agreement": 0.75,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_118333_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3736,
-      "sign_agreement": 0.2308,
-      "pearson_avg": 0.3118,
+      "kendall_w": 0.5442,
+      "sign_agreement": 0.8156,
+      "pearson_avg": 0.6328,
       "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.559,
-      "sign_agreement": 0.4286,
-      "pearson_avg": -0.0166,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6984,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.8292,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2356,
-      "sign_agreement": 0.1978,
-      "pearson_avg": -0.128,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4212,
+      "sign_agreement": 0.7111,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.5333
     }
   },
   "patient_118369_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5523,
-      "sign_agreement": 0.3901,
-      "pearson_avg": 0.637,
+      "kendall_w": 0.6676,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.8312,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.587,
-      "sign_agreement": 0.5714,
-      "pearson_avg": -0.0342,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6708,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8655,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2572,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.1534,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4402,
+      "sign_agreement": 0.878,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_119976_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5183,
-      "sign_agreement": 0.3736,
-      "pearson_avg": 0.4107,
+      "kendall_w": 0.6429,
+      "sign_agreement": 0.85,
+      "pearson_avg": 0.7521,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5297,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.2255,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.7371,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.8609,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2195,
-      "sign_agreement": 0.1593,
-      "pearson_avg": -0.192,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4621,
+      "sign_agreement": 0.8485,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_121016_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4384,
-      "sign_agreement": 0.3022,
-      "pearson_avg": 0.2132,
+      "kendall_w": 0.668,
+      "sign_agreement": 0.8729,
+      "pearson_avg": 0.6365,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4976,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.0665,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.748,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.7452,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.3149,
-      "sign_agreement": 0.1978,
-      "pearson_avg": -0.0972,
+      "kendall_w": 0.4926,
+      "sign_agreement": 0.8293,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_121071_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4478,
-      "sign_agreement": 0.3736,
-      "pearson_avg": 0.0729,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5738,
+      "sign_agreement": 0.933,
+      "pearson_avg": 0.6105,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5021,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.0641,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.8573,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.9231,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2573,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.1046,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4641,
+      "sign_agreement": 0.875,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_122641_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5676,
-      "sign_agreement": 0.489,
-      "pearson_avg": 0.4697,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.5866,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.6877,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5017,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.2836,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.8557,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8967,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3313,
-      "sign_agreement": 0.1868,
-      "pearson_avg": 0.1899,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4424,
+      "sign_agreement": 0.7619,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_123193_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5367,
-      "sign_agreement": 0.4066,
-      "pearson_avg": 0.5168,
+      "kendall_w": 0.6675,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.763,
       "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.4956,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.0247,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6235,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.8234,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.1968,
-      "sign_agreement": 0.1593,
-      "pearson_avg": -0.1529,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4253,
+      "sign_agreement": 0.7714,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_123790_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4773,
-      "sign_agreement": 0.3846,
-      "pearson_avg": 0.3327,
+      "kendall_w": 0.6224,
+      "sign_agreement": 0.9222,
+      "pearson_avg": 0.6521,
       "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.5357,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.4806,
+      "kendall_w": 0.8464,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7942,
       "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.228,
-      "sign_agreement": 0.1484,
-      "pearson_avg": 0.0105,
+      "kendall_w": 0.4809,
+      "sign_agreement": 0.9231,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_124432_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.422,
-      "sign_agreement": 0.3297,
-      "pearson_avg": 0.1184,
-      "intersection_at_5": 0.7333
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5453,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.5628,
+      "kendall_w": 0.6271,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.7661,
       "intersection_at_5": 0.6
     },
+    "DecisionTree": {
+      "kendall_w": 0.7988,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8872,
+      "intersection_at_5": 0.6667
+    },
     "XGBOOST": {
-      "kendall_w": 0.3196,
-      "sign_agreement": 0.1923,
-      "pearson_avg": 0.2305,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.5236,
+      "sign_agreement": 0.7931,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_124733_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4735,
-      "sign_agreement": 0.3791,
-      "pearson_avg": 0.3515,
+      "kendall_w": 0.6562,
+      "sign_agreement": 0.9497,
+      "pearson_avg": 0.6845,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5744,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.414,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.8098,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7454,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2373,
-      "sign_agreement": 0.1538,
-      "pearson_avg": 0.0297,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4244,
+      "sign_agreement": 0.8462,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_124997_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5522,
-      "sign_agreement": 0.4066,
-      "pearson_avg": 0.4602,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6197,
+      "sign_agreement": 0.8156,
+      "pearson_avg": 0.7144,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5809,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0091,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7377,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8815,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.21,
-      "sign_agreement": 0.2033,
-      "pearson_avg": -0.2189,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4073,
+      "sign_agreement": 0.8125,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_125725_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4705,
-      "sign_agreement": 0.3571,
-      "pearson_avg": 0.3607,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.7248,
+      "intersection_at_5": 0.6667
     },
     "DecisionTree": {
-      "kendall_w": 0.5541,
-      "sign_agreement": 0.6667,
-      "pearson_avg": 0.2392,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.7199,
+      "sign_agreement": 0.7692,
+      "pearson_avg": 0.8199,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2973,
-      "sign_agreement": 0.2253,
-      "pearson_avg": -0.0576,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4884,
+      "sign_agreement": 0.6562,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_125998_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.356,
-      "sign_agreement": 0.2473,
-      "pearson_avg": 0.02,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5824,
+      "sign_agreement": 0.8556,
+      "pearson_avg": 0.66,
+      "intersection_at_5": 0.8667
     },
     "DecisionTree": {
-      "kendall_w": 0.54,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.0153,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7163,
+      "sign_agreement": 0.8571,
+      "pearson_avg": 0.8766,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2055,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.2505,
+      "kendall_w": 0.3829,
+      "sign_agreement": 0.8108,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_12768_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5822,
-      "sign_agreement": 0.4341,
-      "pearson_avg": 0.5182,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5953,
+      "sign_agreement": 0.8771,
+      "pearson_avg": 0.5311,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5361,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.4218,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7192,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.8408,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3162,
-      "sign_agreement": 0.1429,
-      "pearson_avg": 0.1218,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4601,
+      "sign_agreement": 0.8,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_127876_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3649,
-      "sign_agreement": 0.2473,
-      "pearson_avg": 0.0116,
+      "kendall_w": 0.6289,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.6532,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4978,
-      "sign_agreement": 0.3333,
-      "pearson_avg": 0.2985,
+      "kendall_w": 0.7202,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7343,
       "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2897,
-      "sign_agreement": 0.1758,
-      "pearson_avg": 0.023,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.406,
+      "sign_agreement": 0.7436,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_128223_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4663,
-      "sign_agreement": 0.3681,
-      "pearson_avg": 0.202,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.6316,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.5527,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.5302,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.5142,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7703,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7463,
+      "intersection_at_5": 0.4667
     },
     "XGBOOST": {
-      "kendall_w": 0.3299,
-      "sign_agreement": 0.2308,
-      "pearson_avg": 0.0667,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.4831,
+      "sign_agreement": 0.7143,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_128990_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.2778,
-      "sign_agreement": 0.1758,
-      "pearson_avg": -0.0394,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5729,
+      "sign_agreement": 0.8156,
+      "pearson_avg": 0.4493,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.554,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0063,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7141,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8549,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.2466,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.2463,
+      "kendall_w": 0.3861,
+      "sign_agreement": 0.7857,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_130002_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.479,
-      "sign_agreement": 0.3352,
-      "pearson_avg": 0.251,
-      "intersection_at_5": 0.7333
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5122,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0313,
+      "kendall_w": 0.594,
+      "sign_agreement": 0.8268,
+      "pearson_avg": 0.6578,
       "intersection_at_5": 0.5333
     },
+    "DecisionTree": {
+      "kendall_w": 0.7244,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8406,
+      "intersection_at_5": 0.8667
+    },
     "XGBOOST": {
-      "kendall_w": 0.2382,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.2488,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4666,
+      "sign_agreement": 0.8235,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_130409_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3233,
-      "sign_agreement": 0.2692,
-      "pearson_avg": -0.0138,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.6034,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.7918,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.5544,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.5244,
+      "kendall_w": 0.6273,
+      "sign_agreement": 0.7778,
+      "pearson_avg": 0.6505,
       "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.223,
-      "sign_agreement": 0.2033,
-      "pearson_avg": 0.0492,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4268,
+      "sign_agreement": 0.871,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_130695_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4469,
-      "sign_agreement": 0.2912,
-      "pearson_avg": 0.4218,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6041,
+      "sign_agreement": 0.8045,
+      "pearson_avg": 0.5959,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5374,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.3265,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6836,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.6389,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2896,
-      "sign_agreement": 0.2033,
-      "pearson_avg": 0.2012,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.451,
+      "sign_agreement": 0.7805,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_13604_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4786,
-      "sign_agreement": 0.3901,
-      "pearson_avg": 0.2735,
+      "kendall_w": 0.6496,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.6694,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4944,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.227,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.7434,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.7596,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2705,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.0706,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4888,
+      "sign_agreement": 0.8378,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_14132_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4822,
-      "sign_agreement": 0.3242,
-      "pearson_avg": 0.4524,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.5544,
+      "sign_agreement": 0.838,
+      "pearson_avg": 0.6619,
+      "intersection_at_5": 0.6667
     },
     "DecisionTree": {
-      "kendall_w": 0.545,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.2275,
+      "kendall_w": 0.6612,
+      "sign_agreement": 0.9231,
+      "pearson_avg": 0.8508,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2749,
-      "sign_agreement": 0.2198,
-      "pearson_avg": -0.0793,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4852,
+      "sign_agreement": 0.8065,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_1428_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4285,
-      "sign_agreement": 0.3077,
-      "pearson_avg": 0.371,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5359,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.4578,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5365,
-      "sign_agreement": 0.5714,
-      "pearson_avg": -0.0291,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7337,
+      "sign_agreement": 0.8667,
+      "pearson_avg": 0.8379,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.1917,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.1094,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4423,
+      "sign_agreement": 0.6957,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_14540_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5562,
-      "sign_agreement": 0.4341,
-      "pearson_avg": 0.285,
+      "kendall_w": 0.5726,
+      "sign_agreement": 0.8944,
+      "pearson_avg": 0.5502,
       "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.5492,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.4971,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7428,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8007,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.273,
-      "sign_agreement": 0.2088,
-      "pearson_avg": -0.0038,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4214,
+      "sign_agreement": 0.7742,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_15003_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4285,
-      "sign_agreement": 0.2747,
-      "pearson_avg": 0.2484,
+      "kendall_w": 0.6227,
+      "sign_agreement": 0.8556,
+      "pearson_avg": 0.695,
       "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.4836,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.0083,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6871,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8331,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2315,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.1283,
+      "kendall_w": 0.4375,
+      "sign_agreement": 0.6591,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_15144_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3033,
-      "sign_agreement": 0.1868,
-      "pearson_avg": 0.1148,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.6321,
+      "sign_agreement": 0.8101,
+      "pearson_avg": 0.7928,
+      "intersection_at_5": 0.8667
     },
     "DecisionTree": {
-      "kendall_w": 0.5108,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.2252,
+      "kendall_w": 0.7558,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8647,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2376,
-      "sign_agreement": 0.1538,
-      "pearson_avg": -0.1142,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4476,
+      "sign_agreement": 0.7273,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_15988_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4297,
-      "sign_agreement": 0.3077,
-      "pearson_avg": 0.2247,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6053,
+      "sign_agreement": 0.8278,
+      "pearson_avg": 0.7225,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.542,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0091,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7412,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8524,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2735,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.1912,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4186,
+      "sign_agreement": 0.7568,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_16810_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4614,
-      "sign_agreement": 0.3626,
-      "pearson_avg": 0.386,
+      "kendall_w": 0.5396,
+      "sign_agreement": 0.8212,
+      "pearson_avg": 0.545,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5255,
-      "sign_agreement": 0.381,
-      "pearson_avg": -0.034,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7877,
+      "sign_agreement": 0.8182,
+      "pearson_avg": 0.8616,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2849,
-      "sign_agreement": 0.2473,
-      "pearson_avg": -0.1001,
+      "kendall_w": 0.425,
+      "sign_agreement": 0.7429,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_17073_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4635,
-      "sign_agreement": 0.3022,
-      "pearson_avg": 0.2209,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.5344,
+      "sign_agreement": 0.8101,
+      "pearson_avg": 0.6211,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5232,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.0308,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6445,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.7963,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2331,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.1794,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4349,
+      "sign_agreement": 0.7838,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_17380_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3916,
-      "sign_agreement": 0.2637,
-      "pearson_avg": 0.007,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.5976,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.7117,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.4427,
-      "sign_agreement": 0.3333,
-      "pearson_avg": -0.1121,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7386,
+      "sign_agreement": 0.9167,
+      "pearson_avg": 0.8903,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.1837,
-      "sign_agreement": 0.1429,
-      "pearson_avg": -0.2176,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3727,
+      "sign_agreement": 0.7297,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_17614_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4665,
-      "sign_agreement": 0.3297,
-      "pearson_avg": 0.2616,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5803,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.6743,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5484,
-      "sign_agreement": 0.6667,
-      "pearson_avg": 0.0081,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.697,
+      "sign_agreement": 0.9231,
+      "pearson_avg": 0.8415,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2165,
-      "sign_agreement": 0.1429,
-      "pearson_avg": -0.1959,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4232,
+      "sign_agreement": 0.7742,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_17652_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4305,
-      "sign_agreement": 0.2967,
-      "pearson_avg": 0.2276,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.5705,
+      "sign_agreement": 0.8278,
+      "pearson_avg": 0.7129,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.4829,
-      "sign_agreement": 0.381,
-      "pearson_avg": 0.3959,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6876,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8396,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2653,
-      "sign_agreement": 0.2363,
-      "pearson_avg": 0.0187,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4697,
+      "sign_agreement": 0.7027,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_1775_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.311,
-      "sign_agreement": 0.2033,
-      "pearson_avg": -0.0092,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.5605,
+      "sign_agreement": 0.8268,
+      "pearson_avg": 0.5484,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5239,
-      "sign_agreement": 0.381,
-      "pearson_avg": -0.0504,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6469,
+      "sign_agreement": 0.9167,
+      "pearson_avg": 0.8548,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2141,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.193,
+      "kendall_w": 0.3964,
+      "sign_agreement": 0.6216,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_17799_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3515,
-      "sign_agreement": 0.3022,
-      "pearson_avg": 0.0099,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.7088,
+      "sign_agreement": 0.85,
+      "pearson_avg": 0.7811,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5639,
-      "sign_agreement": 0.3333,
-      "pearson_avg": 0.1249,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.7136,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.87,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.2099,
-      "sign_agreement": 0.1374,
-      "pearson_avg": -0.2381,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4073,
+      "sign_agreement": 0.8182,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_17923_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4925,
-      "sign_agreement": 0.4121,
-      "pearson_avg": 0.264,
+      "kendall_w": 0.6242,
+      "sign_agreement": 0.9162,
+      "pearson_avg": 0.5894,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.549,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.248,
+      "kendall_w": 0.8418,
+      "sign_agreement": 0.7778,
+      "pearson_avg": 0.625,
       "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2922,
-      "sign_agreement": 0.1868,
-      "pearson_avg": 0.1092,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.5185,
+      "sign_agreement": 0.8667,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_1948_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5728,
-      "sign_agreement": 0.4396,
-      "pearson_avg": 0.6792,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6035,
+      "sign_agreement": 0.838,
+      "pearson_avg": 0.6224,
+      "intersection_at_5": 0.6667
     },
     "DecisionTree": {
-      "kendall_w": 0.4973,
-      "sign_agreement": 0.3333,
-      "pearson_avg": 0.2875,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.8569,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8436,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.3806,
-      "sign_agreement": 0.2967,
-      "pearson_avg": 0.2229,
+      "kendall_w": 0.5521,
+      "sign_agreement": 0.7105,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_19956_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5136,
-      "sign_agreement": 0.3736,
-      "pearson_avg": 0.3934,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6102,
+      "sign_agreement": 0.905,
+      "pearson_avg": 0.667,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5643,
-      "sign_agreement": 0.6667,
-      "pearson_avg": 0.519,
-      "intersection_at_5": 0.6667
+      "kendall_w": 0.834,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.6703,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2859,
-      "sign_agreement": 0.1703,
-      "pearson_avg": 0.1155,
+      "kendall_w": 0.4661,
+      "sign_agreement": 0.8235,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_21090_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5517,
-      "sign_agreement": 0.3791,
-      "pearson_avg": 0.4869,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.5484,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.6524,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5316,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.0343,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7687,
+      "sign_agreement": 0.7,
+      "pearson_avg": 0.7794,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2882,
-      "sign_agreement": 0.2527,
-      "pearson_avg": 0.0639,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4608,
+      "sign_agreement": 0.7273,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_22398_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.465,
-      "sign_agreement": 0.3791,
-      "pearson_avg": 0.232,
+      "kendall_w": 0.5416,
+      "sign_agreement": 0.8939,
+      "pearson_avg": 0.4658,
       "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.5437,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0168,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7425,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8789,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2883,
-      "sign_agreement": 0.2857,
-      "pearson_avg": -0.2135,
+      "kendall_w": 0.4587,
+      "sign_agreement": 0.9231,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_23412_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3744,
-      "sign_agreement": 0.2692,
-      "pearson_avg": 0.1495,
-      "intersection_at_5": 0.2667
-    },
-    "DecisionTree": {
-      "kendall_w": 0.4772,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0874,
+      "kendall_w": 0.5882,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.7133,
       "intersection_at_5": 0.5333
     },
+    "DecisionTree": {
+      "kendall_w": 0.7923,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8212,
+      "intersection_at_5": 0.6
+    },
     "XGBOOST": {
-      "kendall_w": 0.278,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.1696,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4485,
+      "sign_agreement": 0.7742,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_23838_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5772,
-      "sign_agreement": 0.4011,
-      "pearson_avg": 0.5254,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.6674,
+      "sign_agreement": 0.8827,
+      "pearson_avg": 0.7469,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.4718,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.5023,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7736,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8357,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2654,
-      "sign_agreement": 0.2308,
-      "pearson_avg": 0.1073,
+      "kendall_w": 0.4406,
+      "sign_agreement": 0.7941,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_24277_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5592,
-      "sign_agreement": 0.3791,
-      "pearson_avg": 0.5203,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.5277,
+      "sign_agreement": 0.8771,
+      "pearson_avg": 0.5917,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.4743,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.3971,
+      "kendall_w": 0.8031,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.6541,
       "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2488,
-      "sign_agreement": 0.2418,
-      "pearson_avg": 0.0672,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4793,
+      "sign_agreement": 0.7778,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_24475_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5087,
-      "sign_agreement": 0.4505,
-      "pearson_avg": 0.1835,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5899,
+      "sign_agreement": 0.9218,
+      "pearson_avg": 0.5378,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.5697,
-      "sign_agreement": 0.381,
-      "pearson_avg": 0.3703,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.8039,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7607,
+      "intersection_at_5": 0.4667
     },
     "XGBOOST": {
-      "kendall_w": 0.2862,
-      "sign_agreement": 0.2198,
-      "pearson_avg": 0.1011,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.4455,
+      "sign_agreement": 0.5455,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_25588_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.2988,
-      "sign_agreement": 0.2308,
-      "pearson_avg": -0.1195,
+      "kendall_w": 0.6417,
+      "sign_agreement": 0.8556,
+      "pearson_avg": 0.7637,
       "intersection_at_5": 0.8667
     },
     "DecisionTree": {
-      "kendall_w": 0.532,
-      "sign_agreement": 0.381,
-      "pearson_avg": -0.0577,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6439,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.8008,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.1734,
-      "sign_agreement": 0.1429,
-      "pearson_avg": -0.2174,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4247,
+      "sign_agreement": 0.8438,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_25731_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5726,
-      "sign_agreement": 0.4176,
-      "pearson_avg": 0.6105,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6497,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.7982,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5226,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.1772,
+      "kendall_w": 0.6889,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.8775,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2652,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.0758,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4997,
+      "sign_agreement": 0.7222,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_25765_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5375,
-      "sign_agreement": 0.3791,
-      "pearson_avg": 0.4396,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5174,
+      "sign_agreement": 0.8939,
+      "pearson_avg": 0.5306,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5447,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.0157,
+      "kendall_w": 0.7333,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8478,
       "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2492,
-      "sign_agreement": 0.1978,
-      "pearson_avg": -0.1124,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4408,
+      "sign_agreement": 0.75,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_26422_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5591,
-      "sign_agreement": 0.3462,
-      "pearson_avg": 0.6273,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.6624,
+      "sign_agreement": 0.8444,
+      "pearson_avg": 0.8023,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5399,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.1857,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6518,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.7074,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.293,
-      "sign_agreement": 0.2198,
-      "pearson_avg": -0.0668,
+      "kendall_w": 0.4239,
+      "sign_agreement": 0.7273,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_27046_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5083,
-      "sign_agreement": 0.4121,
-      "pearson_avg": 0.3303,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6207,
+      "sign_agreement": 0.933,
+      "pearson_avg": 0.6019,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.5464,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.4937,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.8573,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7971,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2671,
-      "sign_agreement": 0.1703,
-      "pearson_avg": 0.0991,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.5214,
+      "sign_agreement": 0.9286,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4667
     }
   },
   "patient_27695_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.6138,
-      "sign_agreement": 0.4505,
-      "pearson_avg": 0.5599,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.5281,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.6038,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.4883,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.4785,
+      "kendall_w": 0.7679,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8335,
       "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2701,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.0104,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4436,
+      "sign_agreement": 0.7826,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_28346_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4408,
-      "sign_agreement": 0.3516,
-      "pearson_avg": 0.2974,
-      "intersection_at_5": 0.4667
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5661,
-      "sign_agreement": 0.7143,
-      "pearson_avg": 0.4124,
+      "kendall_w": 0.6583,
+      "sign_agreement": 0.933,
+      "pearson_avg": 0.669,
       "intersection_at_5": 0.5333
     },
+    "DecisionTree": {
+      "kendall_w": 0.7828,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7565,
+      "intersection_at_5": 0.8
+    },
     "XGBOOST": {
-      "kendall_w": 0.255,
-      "sign_agreement": 0.1484,
-      "pearson_avg": 0.094,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4507,
+      "sign_agreement": 0.8182,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_28451_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4508,
-      "sign_agreement": 0.3352,
-      "pearson_avg": 0.282,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5759,
+      "sign_agreement": 0.8167,
+      "pearson_avg": 0.6556,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.6027,
-      "sign_agreement": 0.6667,
-      "pearson_avg": 0.2616,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.6617,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.6326,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.2479,
-      "sign_agreement": 0.2033,
-      "pearson_avg": -0.0859,
+      "kendall_w": 0.3916,
+      "sign_agreement": 0.7073,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_28460_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.485,
-      "sign_agreement": 0.2967,
-      "pearson_avg": 0.5476,
-      "intersection_at_5": 0.6667
+      "kendall_w": 0.5688,
+      "sign_agreement": 0.8167,
+      "pearson_avg": 0.6788,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5346,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.0071,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7112,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8877,
+      "intersection_at_5": 1.0
     },
     "XGBOOST": {
-      "kendall_w": 0.2607,
-      "sign_agreement": 0.2143,
-      "pearson_avg": 0.0046,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.457,
+      "sign_agreement": 0.75,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_2856_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5514,
-      "sign_agreement": 0.4725,
-      "pearson_avg": 0.4218,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.5763,
+      "sign_agreement": 0.8883,
+      "pearson_avg": 0.6376,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5423,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.2846,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.8093,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.886,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.3516,
-      "sign_agreement": 0.2033,
-      "pearson_avg": 0.1958,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.5169,
+      "sign_agreement": 0.7059,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_2961_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5597,
-      "sign_agreement": 0.4615,
-      "pearson_avg": 0.2936,
+      "kendall_w": 0.6193,
+      "sign_agreement": 0.9553,
+      "pearson_avg": 0.6503,
       "intersection_at_5": 0.2667
     },
     "DecisionTree": {
-      "kendall_w": 0.5742,
-      "sign_agreement": 0.381,
-      "pearson_avg": 0.2733,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.8267,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.6592,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2981,
-      "sign_agreement": 0.1813,
-      "pearson_avg": 0.0586,
+      "kendall_w": 0.5054,
+      "sign_agreement": 0.8571,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_29880_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.485,
-      "sign_agreement": 0.3407,
-      "pearson_avg": 0.3609,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.608,
+      "sign_agreement": 0.9111,
+      "pearson_avg": 0.6399,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.6295,
-      "sign_agreement": 0.8571,
-      "pearson_avg": 0.5403,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.7665,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.7401,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.3019,
-      "sign_agreement": 0.2088,
-      "pearson_avg": 0.1623,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4664,
+      "sign_agreement": 0.6923,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_30640_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5783,
-      "sign_agreement": 0.4505,
-      "pearson_avg": 0.4079,
-      "intersection_at_5": 0.7333
-    },
-    "DecisionTree": {
-      "kendall_w": 0.4854,
-      "sign_agreement": 0.4286,
-      "pearson_avg": -0.0069,
+      "kendall_w": 0.5899,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.7158,
       "intersection_at_5": 0.6
     },
+    "DecisionTree": {
+      "kendall_w": 0.7573,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8764,
+      "intersection_at_5": 0.8667
+    },
     "XGBOOST": {
-      "kendall_w": 0.2699,
-      "sign_agreement": 0.1978,
-      "pearson_avg": -0.1723,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4948,
+      "sign_agreement": 0.8333,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_31121_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.2912,
-      "sign_agreement": 0.2033,
-      "pearson_avg": -0.077,
+      "kendall_w": 0.589,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.5599,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4987,
-      "sign_agreement": 0.5714,
-      "pearson_avg": -0.0131,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6923,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8678,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.1994,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.2422,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.3986,
+      "sign_agreement": 0.6111,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_31186_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5069,
-      "sign_agreement": 0.4066,
-      "pearson_avg": 0.4585,
+      "kendall_w": 0.5993,
+      "sign_agreement": 0.9106,
+      "pearson_avg": 0.6625,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5709,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.4837,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.8239,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7488,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2476,
-      "sign_agreement": 0.1648,
-      "pearson_avg": 0.1036,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4646,
+      "sign_agreement": 1.0,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_31760_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3987,
-      "sign_agreement": 0.2747,
-      "pearson_avg": 0.0611,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5603,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.6824,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.4741,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.2357,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6998,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8977,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2711,
-      "sign_agreement": 0.2363,
-      "pearson_avg": 0.099,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.3682,
+      "sign_agreement": 0.7674,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_32448_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4709,
-      "sign_agreement": 0.3132,
-      "pearson_avg": 0.4158,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5981,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.6333,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4979,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.0391,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.8318,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8844,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.32,
-      "sign_agreement": 0.2308,
-      "pearson_avg": 0.0349,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4857,
+      "sign_agreement": 0.6279,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_33277_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.6723,
-      "sign_agreement": 0.5055,
-      "pearson_avg": 0.7214,
+      "kendall_w": 0.6312,
+      "sign_agreement": 0.8827,
+      "pearson_avg": 0.7992,
       "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.556,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.0129,
+      "kendall_w": 0.827,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8317,
       "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.3084,
-      "sign_agreement": 0.1923,
-      "pearson_avg": 0.0059,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4745,
+      "sign_agreement": 0.9524,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_33348_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3315,
-      "sign_agreement": 0.2198,
-      "pearson_avg": 0.0651,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.6179,
+      "sign_agreement": 0.8659,
+      "pearson_avg": 0.5437,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.5503,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0779,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7434,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.8387,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2235,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.2659,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4086,
+      "sign_agreement": 0.7632,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_34158_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5647,
-      "sign_agreement": 0.4396,
-      "pearson_avg": 0.5446,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5455,
+      "sign_agreement": 0.905,
+      "pearson_avg": 0.5853,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.5073,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.53,
-      "intersection_at_5": 0.6667
+      "kendall_w": 0.8423,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8337,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2123,
-      "sign_agreement": 0.1154,
-      "pearson_avg": -0.0085,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.428,
+      "sign_agreement": 0.6667,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_34252_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3343,
-      "sign_agreement": 0.2088,
-      "pearson_avg": 0.1857,
+      "kendall_w": 0.5694,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.5292,
       "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.5159,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.0335,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7067,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.7956,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2078,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.0867,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4328,
+      "sign_agreement": 0.7442,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_34584_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.2944,
-      "sign_agreement": 0.1978,
-      "pearson_avg": -0.0806,
+      "kendall_w": 0.6201,
+      "sign_agreement": 0.8659,
+      "pearson_avg": 0.755,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.4557,
-      "sign_agreement": 0.2857,
-      "pearson_avg": -0.0132,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6442,
+      "sign_agreement": 0.75,
+      "pearson_avg": 0.8004,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2655,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.1925,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4112,
+      "sign_agreement": 0.7381,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_34719_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5606,
-      "sign_agreement": 0.3846,
-      "pearson_avg": 0.6194,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6303,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.7892,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5423,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.0034,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.7055,
+      "sign_agreement": 0.9231,
+      "pearson_avg": 0.8688,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.281,
-      "sign_agreement": 0.2253,
-      "pearson_avg": -0.1153,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.424,
+      "sign_agreement": 0.7576,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_35858_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.372,
-      "sign_agreement": 0.2802,
-      "pearson_avg": -0.0116,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6538,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.7596,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.5237,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.0181,
-      "intersection_at_5": 0.6667
+      "kendall_w": 0.8385,
+      "sign_agreement": 0.9167,
+      "pearson_avg": 0.7559,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3316,
-      "sign_agreement": 0.2143,
-      "pearson_avg": 0.0003,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4649,
+      "sign_agreement": 0.7059,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_36067_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3168,
-      "sign_agreement": 0.2253,
-      "pearson_avg": 0.1019,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5695,
+      "sign_agreement": 0.8278,
+      "pearson_avg": 0.5028,
+      "intersection_at_5": 0.2667
     },
     "DecisionTree": {
-      "kendall_w": 0.5095,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0527,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7289,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.8441,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2126,
-      "sign_agreement": 0.1758,
-      "pearson_avg": -0.1756,
+      "kendall_w": 0.4506,
+      "sign_agreement": 0.8846,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_37289_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5515,
-      "sign_agreement": 0.4176,
-      "pearson_avg": 0.4466,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5379,
+      "sign_agreement": 0.905,
+      "pearson_avg": 0.6161,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5066,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.255,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.8186,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.9286,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2468,
-      "sign_agreement": 0.1209,
-      "pearson_avg": -0.0292,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4877,
+      "sign_agreement": 0.8095,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4667
     }
   },
   "patient_38241_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5856,
-      "sign_agreement": 0.4066,
-      "pearson_avg": 0.6061,
+      "kendall_w": 0.6163,
+      "sign_agreement": 0.8659,
+      "pearson_avg": 0.777,
       "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5017,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.2341,
+      "kendall_w": 0.7931,
+      "sign_agreement": 0.7273,
+      "pearson_avg": 0.7968,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.3198,
-      "sign_agreement": 0.2637,
-      "pearson_avg": -0.0502,
+      "kendall_w": 0.4433,
+      "sign_agreement": 0.7143,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_38281_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.2814,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.0811,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5617,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.5531,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.4948,
-      "sign_agreement": 0.3333,
-      "pearson_avg": -0.0684,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6102,
+      "sign_agreement": 0.8182,
+      "pearson_avg": 0.6833,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2055,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.2975,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.354,
+      "sign_agreement": 0.6667,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_38389_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3553,
-      "sign_agreement": 0.2527,
-      "pearson_avg": 0.028,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6217,
+      "sign_agreement": 0.838,
+      "pearson_avg": 0.7689,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5215,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.3094,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6204,
+      "sign_agreement": 0.7692,
+      "pearson_avg": 0.785,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.25,
-      "sign_agreement": 0.1429,
-      "pearson_avg": -0.0313,
+      "kendall_w": 0.4112,
+      "sign_agreement": 0.7632,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_40389_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.2969,
-      "sign_agreement": 0.2033,
-      "pearson_avg": -0.1464,
+      "kendall_w": 0.6173,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.7297,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.4559,
-      "sign_agreement": 0.381,
-      "pearson_avg": -0.0937,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.678,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.8788,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.1944,
-      "sign_agreement": 0.1758,
-      "pearson_avg": -0.2733,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.436,
+      "sign_agreement": 0.8378,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_41202_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5604,
-      "sign_agreement": 0.3516,
-      "pearson_avg": 0.6726,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6404,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.7121,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.6045,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.0395,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6585,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8116,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2555,
-      "sign_agreement": 0.2198,
-      "pearson_avg": -0.0597,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4751,
+      "sign_agreement": 0.7647,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_41685_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4153,
-      "sign_agreement": 0.3352,
-      "pearson_avg": 0.0531,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.5552,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.658,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5728,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.5016,
-      "intersection_at_5": 0.6667
+      "kendall_w": 0.7875,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.647,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2977,
-      "sign_agreement": 0.2143,
-      "pearson_avg": 0.2892,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4638,
+      "sign_agreement": 0.6667,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_42850_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3702,
-      "sign_agreement": 0.3022,
-      "pearson_avg": 0.1126,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6469,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.7397,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.4908,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.1793,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.7198,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.5623,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.2749,
-      "sign_agreement": 0.1484,
-      "pearson_avg": 0.0017,
+      "kendall_w": 0.4949,
+      "sign_agreement": 0.8205,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_43456_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5057,
-      "sign_agreement": 0.4505,
-      "pearson_avg": 0.289,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.6158,
+      "sign_agreement": 0.933,
+      "pearson_avg": 0.6131,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4869,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.3636,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.8533,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7314,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.3705,
-      "sign_agreement": 0.2088,
-      "pearson_avg": 0.1163,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.5044,
+      "sign_agreement": 1.0,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4667
     }
   },
   "patient_4511_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4724,
-      "sign_agreement": 0.3571,
-      "pearson_avg": 0.3527,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5767,
+      "sign_agreement": 0.8556,
+      "pearson_avg": 0.6501,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5736,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.1956,
+      "kendall_w": 0.7127,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8671,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.3009,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.0784,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4328,
+      "sign_agreement": 0.6977,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_45411_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5681,
-      "sign_agreement": 0.4121,
-      "pearson_avg": 0.4433,
+      "kendall_w": 0.6412,
+      "sign_agreement": 0.8771,
+      "pearson_avg": 0.7708,
       "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5124,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0017,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7231,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8673,
+      "intersection_at_5": 1.0
     },
     "XGBOOST": {
-      "kendall_w": 0.2965,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.1644,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4669,
+      "sign_agreement": 0.9062,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_46298_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3798,
-      "sign_agreement": 0.2802,
-      "pearson_avg": 0.031,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5646,
+      "sign_agreement": 0.8389,
+      "pearson_avg": 0.6389,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5339,
-      "sign_agreement": 0.619,
-      "pearson_avg": -0.0278,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6623,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.8081,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.1736,
-      "sign_agreement": 0.1429,
-      "pearson_avg": -0.1971,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3819,
+      "sign_agreement": 0.8125,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_46504_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4049,
-      "sign_agreement": 0.2857,
-      "pearson_avg": 0.2286,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6239,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.7196,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.4578,
-      "sign_agreement": 0.381,
-      "pearson_avg": 0.0034,
+      "kendall_w": 0.6866,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7845,
       "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.263,
-      "sign_agreement": 0.2418,
-      "pearson_avg": -0.1187,
+      "kendall_w": 0.495,
+      "sign_agreement": 0.9412,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_48061_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.6122,
-      "sign_agreement": 0.3846,
-      "pearson_avg": 0.6654,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.5777,
+      "sign_agreement": 0.8212,
+      "pearson_avg": 0.6421,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5741,
-      "sign_agreement": 0.381,
-      "pearson_avg": 0.4737,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7139,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7934,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2862,
-      "sign_agreement": 0.2253,
-      "pearson_avg": 0.2074,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.433,
+      "sign_agreement": 0.7059,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_48971_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4898,
-      "sign_agreement": 0.3901,
-      "pearson_avg": 0.3083,
+      "kendall_w": 0.6066,
+      "sign_agreement": 0.905,
+      "pearson_avg": 0.6807,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.6356,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.5436,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7582,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.757,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2827,
-      "sign_agreement": 0.1703,
-      "pearson_avg": 0.0124,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4422,
+      "sign_agreement": 1.0,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_49777_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3677,
-      "sign_agreement": 0.3022,
-      "pearson_avg": 0.0431,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6896,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.7687,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.4937,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.3357,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7419,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.8884,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.3376,
-      "sign_agreement": 0.1593,
-      "pearson_avg": 0.0934,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4876,
+      "sign_agreement": 0.8,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_49956_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3952,
-      "sign_agreement": 0.2692,
-      "pearson_avg": 0.0317,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6063,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.6844,
+      "intersection_at_5": 1.0
     },
     "DecisionTree": {
-      "kendall_w": 0.5367,
-      "sign_agreement": 0.5714,
-      "pearson_avg": -0.0619,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7703,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.8815,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.1979,
-      "sign_agreement": 0.1154,
-      "pearson_avg": -0.2316,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3838,
+      "sign_agreement": 0.7742,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_5017_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4906,
-      "sign_agreement": 0.3462,
-      "pearson_avg": 0.3935,
-      "intersection_at_5": 0.2667
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5053,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.0177,
+      "kendall_w": 0.6077,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.6066,
       "intersection_at_5": 0.5333
     },
+    "DecisionTree": {
+      "kendall_w": 0.7469,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8919,
+      "intersection_at_5": 0.8667
+    },
     "XGBOOST": {
-      "kendall_w": 0.2536,
-      "sign_agreement": 0.1648,
-      "pearson_avg": -0.2187,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4234,
+      "sign_agreement": 0.8148,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_51117_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3608,
-      "sign_agreement": 0.2747,
-      "pearson_avg": -0.0359,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6425,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.6961,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5089,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0245,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6747,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.7286,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2508,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.2105,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4523,
+      "sign_agreement": 0.8387,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_51255_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5173,
-      "sign_agreement": 0.3516,
-      "pearson_avg": 0.3539,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5708,
+      "sign_agreement": 0.8771,
+      "pearson_avg": 0.646,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5376,
-      "sign_agreement": 0.5714,
-      "pearson_avg": -0.0181,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7217,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8232,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2199,
-      "sign_agreement": 0.1978,
-      "pearson_avg": -0.1834,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4212,
+      "sign_agreement": 0.9333,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_52495_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5111,
-      "sign_agreement": 0.3462,
-      "pearson_avg": 0.4599,
+      "kendall_w": 0.6743,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.8065,
       "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5317,
-      "sign_agreement": 0.6667,
-      "pearson_avg": 0.2525,
+      "kendall_w": 0.7205,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8445,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2861,
-      "sign_agreement": 0.2308,
-      "pearson_avg": -0.021,
+      "kendall_w": 0.4618,
+      "sign_agreement": 0.6176,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_52595_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4381,
-      "sign_agreement": 0.3516,
-      "pearson_avg": 0.2954,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6763,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.7075,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5731,
-      "sign_agreement": 0.6667,
-      "pearson_avg": 0.1216,
+      "kendall_w": 0.7743,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.6784,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.3976,
-      "sign_agreement": 0.2363,
-      "pearson_avg": 0.0323,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.5398,
+      "sign_agreement": 0.8367,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_52758_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.57,
-      "sign_agreement": 0.5055,
-      "pearson_avg": 0.3281,
+      "kendall_w": 0.6781,
+      "sign_agreement": 0.9222,
+      "pearson_avg": 0.679,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4622,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.2451,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.7978,
+      "sign_agreement": 0.875,
+      "pearson_avg": 0.7335,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.3254,
-      "sign_agreement": 0.1374,
-      "pearson_avg": 0.1443,
+      "kendall_w": 0.4997,
+      "sign_agreement": 0.6875,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_5346_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4731,
-      "sign_agreement": 0.3132,
-      "pearson_avg": 0.4365,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.5781,
+      "sign_agreement": 0.8212,
+      "pearson_avg": 0.6474,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5952,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.017,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7027,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7953,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2499,
-      "sign_agreement": 0.2253,
-      "pearson_avg": -0.1175,
+      "kendall_w": 0.4175,
+      "sign_agreement": 0.8,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_54332_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4796,
-      "sign_agreement": 0.3132,
-      "pearson_avg": 0.4524,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.6176,
+      "sign_agreement": 0.838,
+      "pearson_avg": 0.7052,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5342,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0219,
+      "kendall_w": 0.6662,
+      "sign_agreement": 0.8571,
+      "pearson_avg": 0.7613,
       "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.1932,
-      "sign_agreement": 0.1703,
-      "pearson_avg": -0.202,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4234,
+      "sign_agreement": 0.7317,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_54379_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4302,
-      "sign_agreement": 0.2637,
-      "pearson_avg": 0.4414,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.5947,
+      "sign_agreement": 0.8268,
+      "pearson_avg": 0.6179,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.6103,
-      "sign_agreement": 0.6667,
-      "pearson_avg": 0.0546,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6337,
+      "sign_agreement": 0.75,
+      "pearson_avg": 0.8077,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2003,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.2065,
+      "kendall_w": 0.4053,
+      "sign_agreement": 0.8205,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_56098_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4411,
-      "sign_agreement": 0.3077,
-      "pearson_avg": 0.3583,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.622,
+      "sign_agreement": 0.8556,
+      "pearson_avg": 0.66,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5832,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.019,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7267,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8389,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.229,
-      "sign_agreement": 0.1703,
-      "pearson_avg": -0.0957,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.44,
+      "sign_agreement": 0.8824,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_56436_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4796,
-      "sign_agreement": 0.3352,
-      "pearson_avg": 0.2009,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6527,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.7997,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.4807,
-      "sign_agreement": 0.381,
-      "pearson_avg": -0.1811,
-      "intersection_at_5": 0.6667
+      "kendall_w": 0.7677,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.722,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3156,
-      "sign_agreement": 0.2363,
-      "pearson_avg": -0.0046,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4919,
+      "sign_agreement": 0.8571,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_57497_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4394,
-      "sign_agreement": 0.3242,
-      "pearson_avg": 0.1693,
+      "kendall_w": 0.5913,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.5221,
       "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.5113,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.2519,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7293,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.9022,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2189,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.0112,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.4658,
+      "sign_agreement": 0.7568,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_57525_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.6618,
-      "sign_agreement": 0.4505,
-      "pearson_avg": 0.6609,
+      "kendall_w": 0.5456,
+      "sign_agreement": 0.8771,
+      "pearson_avg": 0.5607,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5745,
-      "sign_agreement": 0.6667,
-      "pearson_avg": -0.0138,
+      "kendall_w": 0.7165,
+      "sign_agreement": 0.9167,
+      "pearson_avg": 0.8011,
       "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2552,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.1016,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4557,
+      "sign_agreement": 0.92,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_58171_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3875,
-      "sign_agreement": 0.2473,
-      "pearson_avg": 0.2882,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.553,
+      "sign_agreement": 0.8398,
+      "pearson_avg": 0.5987,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.5327,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0451,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6944,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.8472,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2192,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.1282,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4057,
+      "sign_agreement": 0.7297,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_59046_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5506,
-      "sign_agreement": 0.4176,
-      "pearson_avg": 0.3517,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6419,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.767,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.511,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.2724,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.8566,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7625,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.3348,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.0306,
-      "intersection_at_5": 0.0
+      "kendall_w": 0.5255,
+      "sign_agreement": 0.7576,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_59084_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4686,
-      "sign_agreement": 0.3846,
-      "pearson_avg": 0.4771,
+      "kendall_w": 0.6157,
+      "sign_agreement": 0.8659,
+      "pearson_avg": 0.6885,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5062,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.0801,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.7583,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.8932,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3488,
-      "sign_agreement": 0.1868,
-      "pearson_avg": 0.0739,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4491,
+      "sign_agreement": 0.6842,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_59193_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5925,
-      "sign_agreement": 0.4396,
-      "pearson_avg": 0.4404,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.6304,
+      "sign_agreement": 0.8939,
+      "pearson_avg": 0.7556,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5576,
-      "sign_agreement": 0.381,
-      "pearson_avg": 0.2446,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.7793,
+      "sign_agreement": 0.7273,
+      "pearson_avg": 0.7596,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.2827,
-      "sign_agreement": 0.2363,
-      "pearson_avg": 0.0482,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.5124,
+      "sign_agreement": 0.7308,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_59554_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5035,
-      "sign_agreement": 0.4066,
-      "pearson_avg": 0.4054,
+      "kendall_w": 0.5825,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.5427,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5405,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.4278,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.8335,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.869,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.3226,
-      "sign_agreement": 0.2527,
-      "pearson_avg": 0.2064,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.5179,
+      "sign_agreement": 0.7895,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_60350_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3863,
-      "sign_agreement": 0.2527,
-      "pearson_avg": 0.2001,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6007,
+      "sign_agreement": 0.8659,
+      "pearson_avg": 0.6766,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5286,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.4889,
+      "kendall_w": 0.6381,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8335,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2397,
-      "sign_agreement": 0.1813,
-      "pearson_avg": 0.0563,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4153,
+      "sign_agreement": 0.625,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_60886_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.6134,
-      "sign_agreement": 0.4011,
-      "pearson_avg": 0.5671,
+      "kendall_w": 0.5915,
+      "sign_agreement": 0.8771,
+      "pearson_avg": 0.6365,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5649,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.0159,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7758,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.841,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2618,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.1875,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4797,
+      "sign_agreement": 0.9583,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_61421_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4883,
-      "sign_agreement": 0.3407,
-      "pearson_avg": 0.2987,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5854,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.548,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.516,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.4515,
+      "kendall_w": 0.6355,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.6149,
       "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.2305,
-      "sign_agreement": 0.2253,
-      "pearson_avg": 0.0865,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3749,
+      "sign_agreement": 0.8,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_61913_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4967,
-      "sign_agreement": 0.3132,
-      "pearson_avg": 0.3047,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6043,
+      "sign_agreement": 0.8444,
+      "pearson_avg": 0.6936,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5931,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0354,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6743,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.8141,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2089,
-      "sign_agreement": 0.1648,
-      "pearson_avg": -0.1616,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.3955,
+      "sign_agreement": 0.75,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_62084_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4457,
-      "sign_agreement": 0.3462,
-      "pearson_avg": 0.3266,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6351,
+      "sign_agreement": 0.9218,
+      "pearson_avg": 0.6274,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5663,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.1236,
+      "kendall_w": 0.7771,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8121,
       "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.2622,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.1175,
+      "kendall_w": 0.4512,
+      "sign_agreement": 0.7576,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_62657_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5628,
-      "sign_agreement": 0.3956,
-      "pearson_avg": 0.5075,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6403,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.7343,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5347,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.5492,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.8124,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8596,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.3204,
-      "sign_agreement": 0.1978,
-      "pearson_avg": 0.2143,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4959,
+      "sign_agreement": 0.88,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_62934_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5234,
-      "sign_agreement": 0.3132,
-      "pearson_avg": 0.3693,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.6359,
+      "sign_agreement": 0.8389,
+      "pearson_avg": 0.7087,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5591,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.0786,
-      "intersection_at_5": 0.6667
+      "kendall_w": 0.781,
+      "sign_agreement": 0.75,
+      "pearson_avg": 0.7851,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.284,
-      "sign_agreement": 0.2253,
-      "pearson_avg": -0.0422,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4679,
+      "sign_agreement": 0.75,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_64429_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4836,
-      "sign_agreement": 0.3187,
-      "pearson_avg": 0.4368,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5814,
+      "sign_agreement": 0.8222,
+      "pearson_avg": 0.6727,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5009,
-      "sign_agreement": 0.619,
-      "pearson_avg": -0.0613,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6643,
+      "sign_agreement": 0.8182,
+      "pearson_avg": 0.8553,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2122,
-      "sign_agreement": 0.1538,
-      "pearson_avg": -0.2491,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4108,
+      "sign_agreement": 0.7308,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_64832_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4316,
-      "sign_agreement": 0.3022,
-      "pearson_avg": 0.347,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6931,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.8615,
+      "intersection_at_5": 0.8667
     },
     "DecisionTree": {
-      "kendall_w": 0.5291,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.1028,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.7694,
+      "sign_agreement": 0.9231,
+      "pearson_avg": 0.84,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2748,
-      "sign_agreement": 0.1429,
-      "pearson_avg": -0.0901,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4969,
+      "sign_agreement": 0.75,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_65615_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4219,
-      "sign_agreement": 0.2912,
-      "pearson_avg": 0.1927,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.559,
+      "sign_agreement": 0.8444,
+      "pearson_avg": 0.5897,
+      "intersection_at_5": 0.4
     },
     "DecisionTree": {
-      "kendall_w": 0.5141,
-      "sign_agreement": 0.6667,
-      "pearson_avg": -0.0228,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7166,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8628,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2164,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.1869,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4104,
+      "sign_agreement": 0.8298,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_66014_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5106,
-      "sign_agreement": 0.3571,
-      "pearson_avg": 0.3164,
-      "intersection_at_5": 0.7333
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5564,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0376,
+      "kendall_w": 0.6492,
+      "sign_agreement": 0.8444,
+      "pearson_avg": 0.7121,
       "intersection_at_5": 0.6
     },
+    "DecisionTree": {
+      "kendall_w": 0.7619,
+      "sign_agreement": 0.9231,
+      "pearson_avg": 0.9016,
+      "intersection_at_5": 0.8667
+    },
     "XGBOOST": {
-      "kendall_w": 0.2259,
-      "sign_agreement": 0.1703,
-      "pearson_avg": -0.1514,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4014,
+      "sign_agreement": 0.8529,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_664_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4174,
-      "sign_agreement": 0.2637,
-      "pearson_avg": 0.368,
+      "kendall_w": 0.6172,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.7292,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5193,
-      "sign_agreement": 0.381,
-      "pearson_avg": -0.0254,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6632,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8404,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2235,
-      "sign_agreement": 0.1429,
-      "pearson_avg": -0.1507,
+      "kendall_w": 0.4593,
+      "sign_agreement": 0.7436,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_66726_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4418,
-      "sign_agreement": 0.3077,
-      "pearson_avg": 0.256,
+      "kendall_w": 0.5874,
+      "sign_agreement": 0.8268,
+      "pearson_avg": 0.5817,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4757,
-      "sign_agreement": 0.4286,
-      "pearson_avg": -0.0927,
+      "kendall_w": 0.7117,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.8093,
       "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2694,
-      "sign_agreement": 0.2418,
-      "pearson_avg": -0.0676,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4027,
+      "sign_agreement": 0.7561,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_66828_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.337,
-      "sign_agreement": 0.1978,
-      "pearson_avg": -0.0297,
-      "intersection_at_5": 0.6667
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5764,
-      "sign_agreement": 0.619,
-      "pearson_avg": -0.0571,
+      "kendall_w": 0.5864,
+      "sign_agreement": 0.8111,
+      "pearson_avg": 0.6454,
       "intersection_at_5": 0.5333
     },
+    "DecisionTree": {
+      "kendall_w": 0.7185,
+      "sign_agreement": 0.6364,
+      "pearson_avg": 0.8533,
+      "intersection_at_5": 0.8667
+    },
     "XGBOOST": {
-      "kendall_w": 0.2037,
-      "sign_agreement": 0.2253,
-      "pearson_avg": -0.2712,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4837,
+      "sign_agreement": 0.7308,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_67657_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4197,
-      "sign_agreement": 0.2692,
-      "pearson_avg": 0.1803,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.594,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.712,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.4793,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.016,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7039,
+      "sign_agreement": 0.8462,
+      "pearson_avg": 0.7059,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2183,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.107,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.3932,
+      "sign_agreement": 0.6216,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_67870_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5109,
-      "sign_agreement": 0.4231,
-      "pearson_avg": 0.4251,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.575,
+      "sign_agreement": 0.9162,
+      "pearson_avg": 0.3744,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5325,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.5268,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.8415,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8047,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.269,
-      "sign_agreement": 0.1538,
-      "pearson_avg": 0.0439,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4394,
+      "sign_agreement": 0.8889,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_70639_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4384,
-      "sign_agreement": 0.3462,
-      "pearson_avg": 0.2834,
+      "kendall_w": 0.6292,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.5751,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5708,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.2901,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.7464,
+      "sign_agreement": 0.8,
+      "pearson_avg": 0.6828,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.267,
-      "sign_agreement": 0.1758,
-      "pearson_avg": -0.1036,
+      "kendall_w": 0.4505,
+      "sign_agreement": 0.875,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_71235_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4373,
-      "sign_agreement": 0.3132,
-      "pearson_avg": 0.2549,
+      "kendall_w": 0.5659,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.5789,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5458,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.5222,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6988,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7892,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.1977,
-      "sign_agreement": 0.1813,
-      "pearson_avg": 0.049,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.3418,
+      "sign_agreement": 0.7179,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_7218_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4391,
-      "sign_agreement": 0.2857,
-      "pearson_avg": 0.4658,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5919,
+      "sign_agreement": 0.838,
+      "pearson_avg": 0.7521,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5167,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.0154,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6907,
+      "sign_agreement": 0.7778,
+      "pearson_avg": 0.8546,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2918,
-      "sign_agreement": 0.2473,
-      "pearson_avg": -0.0597,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.497,
+      "sign_agreement": 0.8462,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_73423_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5802,
-      "sign_agreement": 0.4066,
-      "pearson_avg": 0.5215,
+      "kendall_w": 0.5517,
+      "sign_agreement": 0.8771,
+      "pearson_avg": 0.6586,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5398,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.5695,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7435,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.6617,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2219,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.0456,
+      "kendall_w": 0.4284,
+      "sign_agreement": 0.9524,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_7596_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5947,
-      "sign_agreement": 0.467,
-      "pearson_avg": 0.4626,
-      "intersection_at_5": 0.6667
+      "kendall_w": 0.5779,
+      "sign_agreement": 0.9162,
+      "pearson_avg": 0.6262,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.555,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.5077,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.8695,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.6889,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2667,
-      "sign_agreement": 0.1758,
-      "pearson_avg": 0.095,
+      "kendall_w": 0.4453,
+      "sign_agreement": 0.5714,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_76265_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4435,
-      "sign_agreement": 0.3297,
-      "pearson_avg": 0.3811,
+      "kendall_w": 0.5948,
+      "sign_agreement": 0.8771,
+      "pearson_avg": 0.6298,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5688,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.528,
+      "kendall_w": 0.7497,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7826,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2925,
-      "sign_agreement": 0.2088,
-      "pearson_avg": 0.1427,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4453,
+      "sign_agreement": 0.9,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_77103_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4983,
-      "sign_agreement": 0.3846,
-      "pearson_avg": 0.3616,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.534,
+      "sign_agreement": 0.9162,
+      "pearson_avg": 0.4706,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5391,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.3362,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.8015,
+      "sign_agreement": 0.75,
+      "pearson_avg": 0.8167,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2511,
-      "sign_agreement": 0.1154,
-      "pearson_avg": -0.0205,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4887,
+      "sign_agreement": 0.8462,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_77573_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4506,
-      "sign_agreement": 0.3462,
-      "pearson_avg": 0.2144,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.613,
+      "sign_agreement": 0.838,
+      "pearson_avg": 0.6328,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5639,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.4837,
-      "intersection_at_5": 0.7333
+      "kendall_w": 0.6278,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.8268,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.2554,
-      "sign_agreement": 0.1813,
-      "pearson_avg": 0.1838,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.493,
+      "sign_agreement": 0.6774,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_78645_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5011,
-      "sign_agreement": 0.4066,
-      "pearson_avg": 0.4403,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.5674,
+      "sign_agreement": 0.9385,
+      "pearson_avg": 0.5957,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5073,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.3901,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.8412,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7992,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2552,
-      "sign_agreement": 0.1044,
-      "pearson_avg": 0.0014,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4267,
+      "sign_agreement": 0.8333,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_79240_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4611,
-      "sign_agreement": 0.3407,
-      "pearson_avg": 0.3119,
+      "kendall_w": 0.6549,
+      "sign_agreement": 0.8771,
+      "pearson_avg": 0.7114,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5215,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.3247,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7454,
+      "sign_agreement": 0.8182,
+      "pearson_avg": 0.8553,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2759,
-      "sign_agreement": 0.1868,
-      "pearson_avg": 0.2069,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4324,
+      "sign_agreement": 0.8696,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_80051_explanation.json": {
     "LogisticRegression": {
       "kendall_w": 0.5591,
-      "sign_agreement": 0.4725,
-      "pearson_avg": 0.2953,
-      "intersection_at_5": 0.4667
+      "sign_agreement": 0.9167,
+      "pearson_avg": 0.5206,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.4735,
-      "sign_agreement": 0.381,
-      "pearson_avg": 0.2791,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.8079,
+      "sign_agreement": 0.8571,
+      "pearson_avg": 0.5503,
+      "intersection_at_5": 0.4667
     },
     "XGBOOST": {
-      "kendall_w": 0.2672,
-      "sign_agreement": 0.1593,
-      "pearson_avg": 0.0388,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4626,
+      "sign_agreement": 0.9167,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_80486_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5122,
-      "sign_agreement": 0.3791,
-      "pearson_avg": 0.3814,
+      "kendall_w": 0.6295,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.7517,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5446,
-      "sign_agreement": 0.7143,
-      "pearson_avg": 0.4475,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6694,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.8297,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2565,
-      "sign_agreement": 0.1758,
-      "pearson_avg": 0.043,
+      "kendall_w": 0.4306,
+      "sign_agreement": 0.775,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_80676_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4249,
-      "sign_agreement": 0.3462,
-      "pearson_avg": 0.1814,
+      "kendall_w": 0.7372,
+      "sign_agreement": 0.8895,
+      "pearson_avg": 0.7035,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5236,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.2196,
+      "kendall_w": 0.7064,
+      "sign_agreement": 0.875,
+      "pearson_avg": 0.629,
       "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2712,
-      "sign_agreement": 0.2033,
-      "pearson_avg": -0.1488,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4866,
+      "sign_agreement": 0.96,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_80680_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3647,
-      "sign_agreement": 0.2912,
-      "pearson_avg": -0.0507,
-      "intersection_at_5": 0.7333
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5252,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0222,
+      "kendall_w": 0.5771,
+      "sign_agreement": 0.85,
+      "pearson_avg": 0.6533,
       "intersection_at_5": 0.6
     },
+    "DecisionTree": {
+      "kendall_w": 0.6481,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.8673,
+      "intersection_at_5": 0.6667
+    },
     "XGBOOST": {
-      "kendall_w": 0.1944,
-      "sign_agreement": 0.1484,
-      "pearson_avg": -0.2655,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3455,
+      "sign_agreement": 0.75,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_81200_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5211,
-      "sign_agreement": 0.4011,
-      "pearson_avg": 0.3538,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.6021,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.7174,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5157,
-      "sign_agreement": 0.2857,
-      "pearson_avg": 0.3484,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.8367,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7595,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.3149,
-      "sign_agreement": 0.1868,
-      "pearson_avg": 0.0378,
-      "intersection_at_5": 0.0
+      "kendall_w": 0.5451,
+      "sign_agreement": 0.96,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_81761_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.2899,
-      "sign_agreement": 0.2033,
-      "pearson_avg": -0.0532,
+      "kendall_w": 0.5796,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.7519,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5265,
-      "sign_agreement": 0.381,
-      "pearson_avg": -0.0968,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6603,
+      "sign_agreement": 0.6154,
+      "pearson_avg": 0.8344,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2887,
-      "sign_agreement": 0.2473,
-      "pearson_avg": -0.1302,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4317,
+      "sign_agreement": 0.7121,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.0667
     }
   },
   "patient_83129_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4893,
-      "sign_agreement": 0.4121,
-      "pearson_avg": 0.2988,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.704,
+      "sign_agreement": 0.8939,
+      "pearson_avg": 0.8523,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.4632,
-      "sign_agreement": 0.381,
-      "pearson_avg": 0.251,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.7387,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7778,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.3505,
-      "sign_agreement": 0.2198,
-      "pearson_avg": -0.0329,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.5394,
+      "sign_agreement": 0.9091,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_83905_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4013,
-      "sign_agreement": 0.2802,
-      "pearson_avg": 0.2796,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.5816,
+      "sign_agreement": 0.8268,
+      "pearson_avg": 0.609,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.588,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.051,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6992,
+      "sign_agreement": 0.9231,
+      "pearson_avg": 0.839,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2406,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.1301,
+      "kendall_w": 0.3986,
+      "sign_agreement": 0.8,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_85113_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4357,
-      "sign_agreement": 0.2802,
-      "pearson_avg": 0.2732,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6149,
+      "sign_agreement": 0.8156,
+      "pearson_avg": 0.6653,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5202,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0091,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.7144,
+      "sign_agreement": 0.875,
+      "pearson_avg": 0.8293,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.227,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.1906,
+      "kendall_w": 0.4522,
+      "sign_agreement": 0.8158,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_85660_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3568,
-      "sign_agreement": 0.2527,
-      "pearson_avg": 0.1777,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.6077,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.7281,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5481,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.1576,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7202,
+      "sign_agreement": 0.9091,
+      "pearson_avg": 0.6474,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.2501,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.0667,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.383,
+      "sign_agreement": 0.7826,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_86146_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4396,
-      "sign_agreement": 0.3022,
-      "pearson_avg": 0.1819,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.6734,
+      "sign_agreement": 0.8278,
+      "pearson_avg": 0.6843,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5192,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.0395,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.6842,
+      "sign_agreement": 0.7778,
+      "pearson_avg": 0.7777,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.3088,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.0702,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4437,
+      "sign_agreement": 0.7674,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_87623_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5436,
-      "sign_agreement": 0.3516,
-      "pearson_avg": 0.4532,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5886,
+      "sign_agreement": 0.8722,
+      "pearson_avg": 0.4813,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.5395,
-      "sign_agreement": 0.619,
-      "pearson_avg": -0.027,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6532,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8449,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2443,
-      "sign_agreement": 0.1758,
-      "pearson_avg": -0.0877,
+      "kendall_w": 0.4045,
+      "sign_agreement": 0.7838,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_87792_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5099,
-      "sign_agreement": 0.3571,
-      "pearson_avg": 0.4987,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6689,
+      "sign_agreement": 0.8222,
+      "pearson_avg": 0.8057,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5223,
-      "sign_agreement": 0.5714,
-      "pearson_avg": -0.006,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7036,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.8601,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.2331,
-      "sign_agreement": 0.2143,
-      "pearson_avg": -0.2362,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4334,
+      "sign_agreement": 0.6765,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_87862_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5074,
-      "sign_agreement": 0.4011,
-      "pearson_avg": 0.4837,
-      "intersection_at_5": 0.6
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5223,
-      "sign_agreement": 0.2857,
-      "pearson_avg": 0.2741,
+      "kendall_w": 0.6107,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.6302,
       "intersection_at_5": 0.3333
     },
+    "DecisionTree": {
+      "kendall_w": 0.6768,
+      "sign_agreement": 0.7273,
+      "pearson_avg": 0.8818,
+      "intersection_at_5": 0.6667
+    },
     "XGBOOST": {
-      "kendall_w": 0.2702,
-      "sign_agreement": 0.1978,
-      "pearson_avg": 0.2447,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4279,
+      "sign_agreement": 0.6286,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_88517_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4265,
-      "sign_agreement": 0.2692,
-      "pearson_avg": 0.1547,
+      "kendall_w": 0.5737,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.5054,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5176,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0223,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6714,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8651,
+      "intersection_at_5": 0.8
     },
     "XGBOOST": {
-      "kendall_w": 0.2148,
-      "sign_agreement": 0.2033,
-      "pearson_avg": -0.2641,
+      "kendall_w": 0.4274,
+      "sign_agreement": 0.7105,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_88615_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5136,
-      "sign_agreement": 0.4341,
-      "pearson_avg": 0.2021,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6244,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.7941,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5201,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.1618,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.7579,
+      "sign_agreement": 0.9286,
+      "pearson_avg": 0.7075,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.3425,
-      "sign_agreement": 0.2253,
-      "pearson_avg": -0.0479,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.5369,
+      "sign_agreement": 0.7812,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_89042_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.382,
-      "sign_agreement": 0.2637,
-      "pearson_avg": 0.448,
+      "kendall_w": 0.5684,
+      "sign_agreement": 0.8333,
+      "pearson_avg": 0.5668,
       "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5686,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.0202,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7035,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8144,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.193,
-      "sign_agreement": 0.1923,
-      "pearson_avg": -0.2072,
+      "kendall_w": 0.4163,
+      "sign_agreement": 0.7879,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_89102_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5971,
-      "sign_agreement": 0.4121,
-      "pearson_avg": 0.6538,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.633,
+      "sign_agreement": 0.8722,
+      "pearson_avg": 0.6779,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.574,
-      "sign_agreement": 0.6667,
-      "pearson_avg": 0.1588,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.7481,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8639,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3164,
-      "sign_agreement": 0.2363,
-      "pearson_avg": -0.0465,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.5433,
+      "sign_agreement": 0.9062,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_90223_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4794,
-      "sign_agreement": 0.3516,
-      "pearson_avg": 0.3255,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6158,
+      "sign_agreement": 0.8994,
+      "pearson_avg": 0.7287,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5239,
-      "sign_agreement": 0.5238,
-      "pearson_avg": -0.0008,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.7374,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8152,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.257,
-      "sign_agreement": 0.1538,
-      "pearson_avg": -0.0857,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4209,
+      "sign_agreement": 0.8182,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_90689_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5948,
-      "sign_agreement": 0.4011,
-      "pearson_avg": 0.6435,
+      "kendall_w": 0.6294,
+      "sign_agreement": 0.8556,
+      "pearson_avg": 0.7297,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5494,
-      "sign_agreement": 0.4286,
-      "pearson_avg": -0.0169,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6642,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.8463,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2427,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.2511,
+      "kendall_w": 0.4214,
+      "sign_agreement": 0.7045,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_91264_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.359,
-      "sign_agreement": 0.2637,
-      "pearson_avg": -0.0133,
+      "kendall_w": 0.6299,
+      "sign_agreement": 0.85,
+      "pearson_avg": 0.6754,
       "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5366,
-      "sign_agreement": 0.381,
-      "pearson_avg": -0.0374,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.777,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8754,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.1896,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.2594,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3969,
+      "sign_agreement": 0.7105,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_9166_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4985,
-      "sign_agreement": 0.3187,
-      "pearson_avg": 0.4668,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6159,
+      "sign_agreement": 0.8156,
+      "pearson_avg": 0.7551,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.4878,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0424,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6921,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8293,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2455,
-      "sign_agreement": 0.1868,
-      "pearson_avg": -0.1787,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.438,
+      "sign_agreement": 0.7297,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_9277_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3332,
-      "sign_agreement": 0.2473,
-      "pearson_avg": 0.1287,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5485,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.3865,
+      "intersection_at_5": 0.2667
     },
     "DecisionTree": {
-      "kendall_w": 0.4953,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.079,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6631,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8308,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2203,
-      "sign_agreement": 0.1978,
-      "pearson_avg": -0.2029,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4211,
+      "sign_agreement": 0.7805,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_92784_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3623,
-      "sign_agreement": 0.2473,
-      "pearson_avg": 0.1273,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.5858,
+      "sign_agreement": 0.8492,
+      "pearson_avg": 0.5656,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.4799,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.0132,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7413,
+      "sign_agreement": 0.7273,
+      "pearson_avg": 0.8721,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.325,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.1555,
+      "kendall_w": 0.4597,
+      "sign_agreement": 0.6562,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.1333
     }
   },
   "patient_93160_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5664,
-      "sign_agreement": 0.4505,
-      "pearson_avg": 0.2879,
+      "kendall_w": 0.6125,
+      "sign_agreement": 0.9274,
+      "pearson_avg": 0.7184,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.4491,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.297,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.8484,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8038,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2658,
-      "sign_agreement": 0.1648,
-      "pearson_avg": -0.0743,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.436,
+      "sign_agreement": 0.9,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_93377_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.6054,
-      "sign_agreement": 0.4176,
-      "pearson_avg": 0.6906,
-      "intersection_at_5": 1.0
+      "kendall_w": 0.5769,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.7422,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5534,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.4638,
+      "kendall_w": 0.7727,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.7744,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.3118,
-      "sign_agreement": 0.2363,
-      "pearson_avg": 0.1734,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.5103,
+      "sign_agreement": 0.7857,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_94134_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4609,
-      "sign_agreement": 0.3956,
-      "pearson_avg": 0.3511,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6204,
+      "sign_agreement": 0.9162,
+      "pearson_avg": 0.624,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.5582,
-      "sign_agreement": 0.381,
-      "pearson_avg": 0.3379,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.8117,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7713,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2317,
-      "sign_agreement": 0.1593,
-      "pearson_avg": 0.005,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4783,
+      "sign_agreement": 0.8889,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.4
     }
   },
   "patient_94432_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3603,
-      "sign_agreement": 0.2253,
-      "pearson_avg": 0.2061,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.5756,
+      "sign_agreement": 0.838,
+      "pearson_avg": 0.6855,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.536,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.5259,
+      "kendall_w": 0.6536,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8393,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2612,
-      "sign_agreement": 0.2033,
-      "pearson_avg": 0.2636,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.402,
+      "sign_agreement": 0.6889,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_94606_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3493,
-      "sign_agreement": 0.2692,
-      "pearson_avg": 0.0261,
-      "intersection_at_5": 0.4667
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5329,
-      "sign_agreement": 0.6667,
-      "pearson_avg": -0.0261,
+      "kendall_w": 0.6504,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.6861,
       "intersection_at_5": 0.6
     },
+    "DecisionTree": {
+      "kendall_w": 0.6404,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.82,
+      "intersection_at_5": 0.8667
+    },
     "XGBOOST": {
-      "kendall_w": 0.2256,
-      "sign_agreement": 0.1703,
-      "pearson_avg": -0.2247,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4662,
+      "sign_agreement": 0.8148,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_94638_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3645,
-      "sign_agreement": 0.2637,
-      "pearson_avg": 0.1025,
+      "kendall_w": 0.5993,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.7403,
       "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5582,
-      "sign_agreement": 0.7619,
-      "pearson_avg": 0.4273,
-      "intersection_at_5": 0.8
+      "kendall_w": 0.6977,
+      "sign_agreement": 0.6667,
+      "pearson_avg": 0.6479,
+      "intersection_at_5": 0.6
     },
     "XGBOOST": {
-      "kendall_w": 0.251,
-      "sign_agreement": 0.1813,
-      "pearson_avg": 0.1146,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.3959,
+      "sign_agreement": 0.7143,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_94664_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.546,
-      "sign_agreement": 0.4835,
-      "pearson_avg": 0.394,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.704,
+      "sign_agreement": 0.8994,
+      "pearson_avg": 0.7353,
+      "intersection_at_5": 0.3333
     },
     "DecisionTree": {
-      "kendall_w": 0.5348,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.3921,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.8237,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7715,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3044,
-      "sign_agreement": 0.2088,
-      "pearson_avg": 0.1016,
+      "kendall_w": 0.4898,
+      "sign_agreement": 0.75,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2667
     }
   },
   "patient_95594_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.6137,
-      "sign_agreement": 0.4341,
-      "pearson_avg": 0.4908,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.6152,
+      "sign_agreement": 0.8167,
+      "pearson_avg": 0.7132,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5316,
-      "sign_agreement": 0.4762,
-      "pearson_avg": -0.0319,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7423,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8523,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.286,
-      "sign_agreement": 0.1978,
-      "pearson_avg": -0.1964,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4213,
+      "sign_agreement": 0.825,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_9587_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4926,
-      "sign_agreement": 0.3516,
-      "pearson_avg": 0.1693,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6107,
+      "sign_agreement": 0.8436,
+      "pearson_avg": 0.6938,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.587,
-      "sign_agreement": 0.619,
-      "pearson_avg": -0.0052,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6809,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8208,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2142,
-      "sign_agreement": 0.1154,
-      "pearson_avg": -0.2012,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4322,
+      "sign_agreement": 0.7436,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_95938_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4675,
-      "sign_agreement": 0.3626,
-      "pearson_avg": 0.2327,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.6099,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.599,
+      "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5625,
-      "sign_agreement": 0.5238,
-      "pearson_avg": 0.5951,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7067,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8186,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2676,
-      "sign_agreement": 0.2308,
-      "pearson_avg": 0.0116,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.4849,
+      "sign_agreement": 0.8519,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_95980_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.493,
-      "sign_agreement": 0.3956,
-      "pearson_avg": 0.3294,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.6991,
+      "sign_agreement": 0.8715,
+      "pearson_avg": 0.7855,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.5651,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.328,
-      "intersection_at_5": 0.8667
+      "kendall_w": 0.8149,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.806,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2804,
-      "sign_agreement": 0.2088,
-      "pearson_avg": -0.0036,
-      "intersection_at_5": 0.1333
+      "kendall_w": 0.4661,
+      "sign_agreement": 0.8824,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_96367_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.559,
-      "sign_agreement": 0.3901,
-      "pearson_avg": 0.4563,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5855,
+      "sign_agreement": 0.8603,
+      "pearson_avg": 0.7747,
+      "intersection_at_5": 0.6
     },
     "DecisionTree": {
-      "kendall_w": 0.4851,
-      "sign_agreement": 0.4286,
-      "pearson_avg": 0.4575,
+      "kendall_w": 0.7155,
+      "sign_agreement": 0.8889,
+      "pearson_avg": 0.8527,
       "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.3143,
-      "sign_agreement": 0.2527,
-      "pearson_avg": 0.0764,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4819,
+      "sign_agreement": 0.8462,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_9833_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4247,
-      "sign_agreement": 0.3077,
-      "pearson_avg": 0.2722,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.6605,
+      "sign_agreement": 0.8611,
+      "pearson_avg": 0.7225,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5618,
-      "sign_agreement": 0.7619,
-      "pearson_avg": 0.2033,
+      "kendall_w": 0.7671,
+      "sign_agreement": 0.9,
+      "pearson_avg": 0.8056,
       "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2935,
-      "sign_agreement": 0.2363,
-      "pearson_avg": -0.0234,
+      "kendall_w": 0.515,
+      "sign_agreement": 0.6905,
+      "pearson_avg": NaN,
       "intersection_at_5": 0.2
     }
   },
   "patient_98978_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4055,
-      "sign_agreement": 0.2912,
-      "pearson_avg": 0.2573,
+      "kendall_w": 0.5534,
+      "sign_agreement": 0.8324,
+      "pearson_avg": 0.624,
       "intersection_at_5": 0.5333
     },
     "DecisionTree": {
-      "kendall_w": 0.5786,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.0276,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.7754,
+      "sign_agreement": 0.8571,
+      "pearson_avg": 0.8604,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.3129,
-      "sign_agreement": 0.1978,
-      "pearson_avg": 0.0065,
-      "intersection_at_5": 0.0667
+      "kendall_w": 0.4899,
+      "sign_agreement": 0.8519,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_99468_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4204,
-      "sign_agreement": 0.2857,
-      "pearson_avg": 0.2305,
-      "intersection_at_5": 0.3333
+      "kendall_w": 0.622,
+      "sign_agreement": 0.8167,
+      "pearson_avg": 0.6547,
+      "intersection_at_5": 0.4667
     },
     "DecisionTree": {
-      "kendall_w": 0.5984,
-      "sign_agreement": 0.5714,
-      "pearson_avg": 0.0106,
-      "intersection_at_5": 0.5333
+      "kendall_w": 0.6701,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.8189,
+      "intersection_at_5": 0.7333
     },
     "XGBOOST": {
-      "kendall_w": 0.2767,
-      "sign_agreement": 0.1813,
-      "pearson_avg": -0.233,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.422,
+      "sign_agreement": 0.6471,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.1333
     }
   },
   "patient_99516_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.3792,
-      "sign_agreement": 0.2582,
-      "pearson_avg": 0.325,
-      "intersection_at_5": 0.4667
-    },
-    "DecisionTree": {
-      "kendall_w": 0.5442,
-      "sign_agreement": 0.5714,
-      "pearson_avg": -0.0093,
+      "kendall_w": 0.6584,
+      "sign_agreement": 0.8547,
+      "pearson_avg": 0.7101,
       "intersection_at_5": 0.6
     },
+    "DecisionTree": {
+      "kendall_w": 0.6776,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7965,
+      "intersection_at_5": 0.7333
+    },
     "XGBOOST": {
-      "kendall_w": 0.2211,
-      "sign_agreement": 0.1429,
-      "pearson_avg": -0.0666,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4443,
+      "sign_agreement": 0.7949,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   },
   "patient_99614_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5037,
-      "sign_agreement": 0.3736,
-      "pearson_avg": 0.2873,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.612,
+      "sign_agreement": 0.9162,
+      "pearson_avg": 0.6306,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5539,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.4458,
-      "intersection_at_5": 0.6667
+      "kendall_w": 0.7938,
+      "sign_agreement": 1.0,
+      "pearson_avg": 0.7259,
+      "intersection_at_5": 0.5333
     },
     "XGBOOST": {
-      "kendall_w": 0.2335,
-      "sign_agreement": 0.1484,
-      "pearson_avg": 0.0543,
-      "intersection_at_5": 0.2
+      "kendall_w": 0.4135,
+      "sign_agreement": 0.9167,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.3333
     }
   },
   "patient_99634_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.4698,
-      "sign_agreement": 0.3187,
-      "pearson_avg": 0.4746,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.5991,
+      "sign_agreement": 0.8212,
+      "pearson_avg": 0.7599,
+      "intersection_at_5": 0.8667
     },
     "DecisionTree": {
-      "kendall_w": 0.5508,
-      "sign_agreement": 0.619,
-      "pearson_avg": 0.0471,
-      "intersection_at_5": 0.4667
+      "kendall_w": 0.7368,
+      "sign_agreement": 0.7273,
+      "pearson_avg": 0.8681,
+      "intersection_at_5": 0.6667
     },
     "XGBOOST": {
-      "kendall_w": 0.2833,
-      "sign_agreement": 0.2363,
-      "pearson_avg": -0.0803,
-      "intersection_at_5": 0.2667
+      "kendall_w": 0.457,
+      "sign_agreement": 0.6774,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2
     }
   },
   "patient_99933_explanation.json": {
     "LogisticRegression": {
-      "kendall_w": 0.5499,
-      "sign_agreement": 0.3846,
-      "pearson_avg": 0.6095,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.5547,
+      "sign_agreement": 0.8167,
+      "pearson_avg": 0.7178,
+      "intersection_at_5": 0.7333
     },
     "DecisionTree": {
-      "kendall_w": 0.5091,
-      "sign_agreement": 0.4762,
-      "pearson_avg": 0.0212,
-      "intersection_at_5": 0.6
+      "kendall_w": 0.7465,
+      "sign_agreement": 0.6364,
+      "pearson_avg": 0.8626,
+      "intersection_at_5": 0.8667
     },
     "XGBOOST": {
-      "kendall_w": 0.2836,
-      "sign_agreement": 0.2692,
-      "pearson_avg": -0.1411,
-      "intersection_at_5": 0.4
+      "kendall_w": 0.4425,
+      "sign_agreement": 0.6087,
+      "pearson_avg": NaN,
+      "intersection_at_5": 0.2667
     }
   }
 }
