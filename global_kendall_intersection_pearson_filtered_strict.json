@@ -1,0 +1,19 @@
+{
+  "global_graph_data.json": {
+    "XGBoost": {
+      "kendall_w": 0.8773,
+      "intersection_at_5": 0.4,
+      "pearson_avg": 0.5938
+    },
+    "Logistic Regression": {
+      "kendall_w": 0.9687,
+      "intersection_at_5": 0.4,
+      "pearson_avg": 0.957
+    },
+    "Decision Tree": {
+      "kendall_w": 0.9786,
+      "intersection_at_5": 0.8,
+      "pearson_avg": 0.9328
+    }
+  }
+}
