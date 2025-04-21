@@ -2,17 +2,17 @@
   "global_graph_data.json": {
     "XGBoost": {
       "kendall_w": 0.8773,
-      "intersection_at_5": 0.4,
+      "intersection_at_20": 0.55,
       "pearson_avg": 0.5938
     },
     "Logistic Regression": {
       "kendall_w": 0.9687,
-      "intersection_at_5": 0.4,
+      "intersection_at_20": 0.85,
       "pearson_avg": 0.957
     },
     "Decision Tree": {
       "kendall_w": 0.9786,
-      "intersection_at_5": 0.8,
+      "intersection_at_20": 0.95,
       "pearson_avg": 0.9328
     }
   }

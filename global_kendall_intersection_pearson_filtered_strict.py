@@ -5,7 +5,7 @@ from scipy.stats import kendalltau
 
 DATA_FILE = "./global_explanations/global_graph_data.json"
 methods = ["SHAP", "Lime", "Inherent"]
-TOP_K = 5
+TOP_K = 20
 
 def kendalls_w_from_rank_matrix(rank_matrix):
     rank_matrix = np.array(rank_matrix)
