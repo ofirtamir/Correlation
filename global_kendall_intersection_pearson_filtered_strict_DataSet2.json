@@ -1,0 +1,17 @@
+{
+  "XGBoost": [
+    { "name": "kendall_w", "agreement": 85.19, "disagreement": 14.81 },
+    { "name": "intersection_at_10", "agreement": 80.0, "disagreement": 20.0 },
+    { "name": "pearson_avg", "agreement": 88.08, "disagreement": 11.92 }
+  ],
+  "Logistic Regression": [
+    { "name": "kendall_w", "agreement": 84.68, "disagreement": 15.32 },
+    { "name": "intersection_at_10", "agreement": 90.0, "disagreement": 10.0 },
+    { "name": "pearson_avg", "agreement": 96.71, "disagreement": 3.29 }
+  ],
+  "Decision Tree": [
+    { "name": "kendall_w", "agreement": 97.53, "disagreement": 2.47 },
+    { "name": "intersection_at_10", "agreement": 100.0, "disagreement": 0.0 },
+    { "name": "pearson_avg", "agreement": 95.57, "disagreement": 4.43 }
+  ]
+}

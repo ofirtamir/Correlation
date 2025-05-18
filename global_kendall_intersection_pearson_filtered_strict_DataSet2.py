@@ -3,7 +3,7 @@ import json
 import numpy as np
 from scipy.stats import kendalltau
 
-DATA_FILE = "./global_explanations/global_graph_data.json"
+DATA_FILE = "./global_explanations_2/global_graph_DataSet2.json"
 methods = ["SHAP", "Lime", "Inherent"]
 TOP_K = 10
 
@@ -37,6 +37,13 @@ def intersection_at_k(methods_data, features, k=TOP_K):
             scores.append(inter / k)
     return round(np.mean(scores), 4) if scores else None
 
+def format_metric(name, score):
+    if score is None:
+        return { "name": name, "agreement": None, "disagreement": None }
+    agreement = round(score * 100, 2)
+    disagreement = round(100 - agreement, 2)
+    return { "name": name, "agreement": agreement, "disagreement": disagreement }
+
 def process_file(filepath):
     with open(filepath, 'r') as f:
         data = json.load(f)
@@ -66,13 +73,14 @@ def process_file(filepath):
             ranks = (-np.array(scores)).argsort().argsort() + 1
             method_ranks.append(ranks)
 
-        model_result = {}
+        metrics = []
+
         if len(method_ranks) >= 2:
             W = kendalls_w_from_rank_matrix(method_ranks)
-            model_result["kendall_w"] = round(W, 4) if W is not None else None
+            metrics.append(format_metric("kendall_w", W))
 
         intersection_score = intersection_at_k(methods_data, features, TOP_K)
-        model_result[f"intersection_at_{TOP_K}"] = intersection_score
+        metrics.append(format_metric(f"intersection_at_{TOP_K}", intersection_score))
 
         pearson_scores = []
         for m1, m2 in [("SHAP", "Lime"), ("SHAP", "Inherent"), ("Lime", "Inherent")]:
@@ -83,18 +91,19 @@ def process_file(filepath):
                     r = np.corrcoef(v1, v2)[0, 1]
                     pearson_scores.append(r)
         if pearson_scores:
-            model_result["pearson_avg"] = round(np.mean(pearson_scores), 4)
+            pearson_avg = np.mean(pearson_scores)
+            metrics.append(format_metric("pearson_avg", pearson_avg))
 
-        result[model] = model_result
+        result[model] = metrics
 
     return result
 
 def main():
     results = process_file(DATA_FILE)
+    output_filename = "global_kendall_intersection_pearson_filtered_strict_DataSet2.json"
 
-    output_filename = "global_kendall_intersection_pearson_filtered_strict.json"
     with open(output_filename, "w") as f:
-        json.dump({os.path.basename(DATA_FILE): results}, f, indent=2)
+        json.dump(results, f, indent=2)
 
     print(f"✅ Analysis completed. Results saved to '{output_filename}'.")
 
