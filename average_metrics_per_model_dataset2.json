@@ -1,0 +1,20 @@
+{
+  "LogisticRegression": {
+    "kendall_w": 0.7785,
+    "sign_agreement": 0.9934,
+    "intersection_at_10": 0.5812,
+    "pearson_avg": 0.647
+  },
+  "DecisionTree": {
+    "kendall_w": 0.8693,
+    "sign_agreement": 0.8912,
+    "intersection_at_10": 0.5379,
+    "pearson_avg": 0.8152
+  },
+  "XGBOOST": {
+    "kendall_w": 0.8591,
+    "sign_agreement": 0.8956,
+    "intersection_at_10": 0.6096,
+    "pearson_avg": 0.7481
+  }
+}
