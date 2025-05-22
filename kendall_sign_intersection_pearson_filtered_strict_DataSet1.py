@@ -4,7 +4,7 @@ import json
 import numpy as np
 from scipy.stats import kendalltau
 
-DATA_DIR = "./explanations"
+DATA_DIR = "patient_contributions_DataSet1"
 methods = ["SHAP", "Lime", "Inherent"]
 TOP_K = 5
 
@@ -120,7 +120,7 @@ def main():
             patient_result = process_file(filepath)
             results[filename] = patient_result
 
-    with open("kendall_sign_intersection_pearson_filtered.json", "w") as f:
+    with open("kendall_sign_intersection_pearson_filtered_DataSet1.json", "w") as f:
         json.dump(results, f, indent=2)
 
     print("✅ Analysis completed. Results saved to 'kendall_sign_intersection_pearson_filtered.json'.")

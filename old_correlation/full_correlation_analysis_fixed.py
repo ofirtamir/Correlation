@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 from scipy.stats import pearsonr, kendalltau
 
-DATA_DIR = "../explanations"
+DATA_DIR = "../patient_contributions_DataSet1"
 methods = ["SHAP", "Lime", "Inherent"]
 
 def load_explanations(path):

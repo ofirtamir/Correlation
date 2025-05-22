@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
-DATA_DIR = "./explanations"
+DATA_DIR = "patient_contributions_DataSet1"
 methods = ["SHAP", "Lime", "Inherent"]
 
 def compute_vif(explanations):

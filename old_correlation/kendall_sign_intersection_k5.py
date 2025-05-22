@@ -4,7 +4,7 @@ import json
 import numpy as np
 from scipy.stats import kendalltau
 
-DATA_DIR = "../explanations"
+DATA_DIR = "../patient_contributions_DataSet1"
 methods = ["SHAP", "Lime", "Inherent"]
 TOP_K = 5
 
