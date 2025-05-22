@@ -1,11 +1,12 @@
+
 import os
 import json
 import numpy as np
 from scipy.stats import kendalltau
 
-DATA_FILE = "./global_explanations_1/global_graph_data.json"
+DATA_DIR = "./patient_contributions_DataSet2"
 methods = ["SHAP", "Lime", "Inherent"]
-TOP_K = 40
+TOP_K = 10
 
 def kendalls_w_from_rank_matrix(rank_matrix):
     rank_matrix = np.array(rank_matrix)
@@ -17,6 +18,23 @@ def kendalls_w_from_rank_matrix(rank_matrix):
     S = np.sum((R - R_bar) ** 2)
     W = 12 * S / (k ** 2 * (n ** 3 - n))
     return W
+
+def sign_agreement(methods_data, features):
+    signs_by_method = {}
+    for m in methods:
+        if m in methods_data:
+            signs_by_method[m] = {f: np.sign(methods_data[m].get(f, 0)) for f in features}
+
+    agreed = 0
+    total = 0
+    for f in features:
+        current_signs = [signs_by_method[m][f] for m in signs_by_method if f in signs_by_method[m]]
+        current_signs = [s for s in current_signs if s != 0]
+        if len(current_signs) >= 2:
+            total += 1
+            if all(s == current_signs[0] for s in current_signs[1:]):
+                agreed += 1
+    return round(agreed / total, 4) if total > 0 else None
 
 def intersection_at_k(methods_data, features, k=TOP_K):
     top_k = {}
@@ -52,6 +70,7 @@ def process_file(filepath):
         for m in available_methods:
             all_features.update(methods_data[m].keys())
 
+        # Remove features that are zero across all methods
         valid_features = set()
         for f in all_features:
             values = [methods_data[m].get(f, 0) for m in available_methods]
@@ -71,9 +90,13 @@ def process_file(filepath):
             W = kendalls_w_from_rank_matrix(method_ranks)
             model_result["kendall_w"] = round(W, 4) if W is not None else None
 
+        sign_agree = sign_agreement(methods_data, features)
+        model_result["sign_agreement"] = sign_agree
+
         intersection_score = intersection_at_k(methods_data, features, TOP_K)
         model_result[f"intersection_at_{TOP_K}"] = intersection_score
 
+        # Pearson correlation average (on raw values)
         pearson_scores = []
         for m1, m2 in [("SHAP", "Lime"), ("SHAP", "Inherent"), ("Lime", "Inherent")]:
             if m1 in methods_data and m2 in methods_data:
@@ -90,13 +113,17 @@ def process_file(filepath):
     return result
 
 def main():
-    results = process_file(DATA_FILE)
+    results = {}
+    for filename in os.listdir(DATA_DIR):
+        if filename.endswith(".json"):
+            filepath = os.path.join(DATA_DIR, filename)
+            patient_result = process_file(filepath)
+            results[filename] = patient_result
 
-    output_filename = "global_kendall_intersection_pearson_filtered_strict_DataSet1.json"
-    with open(output_filename, "w") as f:
-        json.dump({os.path.basename(DATA_FILE): results}, f, indent=2)
+    with open("kendall_sign_intersection_pearson_filtered_DataSet2.json", "w") as f:
+        json.dump(results, f, indent=2)
 
-    print(f"✅ Analysis completed. Results saved to '{output_filename}'.")
+    print("✅ Analysis completed. Results saved to 'kendall_sign_intersection_pearson_filtered.json'.")
 
 if __name__ == "__main__":
     main()
